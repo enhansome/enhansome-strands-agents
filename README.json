@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "description": "Are you building something awesome with Strands Agents? Add this badge to your project's README to show it's part of the ecosystem:",
+      "items": [],
+      "title": "🏷️ Badge"
+    },
+    {
+      "description": "Want your project to be automatically discovered and listed on strands.my?",
+      "items": [],
+      "title": "📦 Publishing Your Strands Project"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blog Posts & Articles"
+    },
+    {
+      "description": "Submit PR after adding your content!",
+      "items": [],
+      "title": "Videos & Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python SDK",
+          "description": "Core SDK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:00:33Z",
+            "owner": "strands-agents",
+            "repo": "harness-sdk",
+            "stars": 6891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tools",
+          "description": "Official tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T13:44:31Z",
+            "owner": "strands-agents",
+            "repo": "tools",
+            "stars": 1147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Examples",
+          "description": "Sample projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:54:28Z",
+            "owner": "strands-agents",
+            "repo": "samples",
+            "stars": 824
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Repository Metrics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PyPI Download Stats"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contributors"
+    },
+    {
+      "description": "License: CC0 1.0 Universal",
+      "items": [],
+      "title": "Repository Activity"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:21:20.878Z",
+    "original_repository": "cagataycali/awesome-strands-agents",
+    "original_repository_sha": "1e7ad607dd53f2593cca8b25d42bbfd9cf9e7bfd",
+    "enhanced_repository": "enhansome/enhansome-strands-agents",
+    "enhanced_repository_description": null,
+    "title": "Awesome Strands Agents ✨ with stars"
+  }
+}
