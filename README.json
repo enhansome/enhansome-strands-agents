@@ -39,7 +39,7 @@
             "last_commit": "2026-08-14T23:37:50Z",
             "owner": "strands-agents",
             "repo": "harness-sdk",
-            "stars": 6909
+            "stars": 6918
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-13T14:40:13Z",
             "owner": "strands-agents",
             "repo": "tools",
-            "stars": 1146
+            "stars": 1147
           }
         },
         {
@@ -100,7 +100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:12:39.753Z",
+    "last_updated": "2026-08-16T09:14:08.527Z",
     "original_repository": "cagataycali/awesome-strands-agents",
     "original_repository_sha": "1e7ad607dd53f2593cca8b25d42bbfd9cf9e7bfd",
     "enhanced_repository": "enhansome/enhansome-strands-agents",
