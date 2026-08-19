@@ -12,10 +12,10 @@
             "archived": false,
             "id": 983715534,
             "language": "Python",
-            "last_commit": "2026-08-19T08:00:14Z",
+            "last_commit": "2026-08-19T12:50:23Z",
             "owner": "strands-agents",
             "repo": "harness-sdk",
-            "stars": 6948
+            "stars": 6953
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T16:27:45Z",
             "owner": "strands-agents",
             "repo": "tools",
-            "stars": 1153
+            "stars": 1154
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-12T20:54:28Z",
             "owner": "strands-agents",
             "repo": "samples",
-            "stars": 830
+            "stars": 831
           }
         }
       ],
@@ -53,8 +53,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:19:00.252Z",
+    "last_updated": "2026-08-19T12:53:02.764Z",
     "original_repository": "cagataycali/awesome-strands-agents",
+    "original_repository_id": 992710242,
     "original_repository_sha": "1e7ad607dd53f2593cca8b25d42bbfd9cf9e7bfd",
     "enhanced_repository": "enhansome/enhansome-strands-agents",
     "enhanced_repository_description": null,
