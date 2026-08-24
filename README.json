@@ -5,6 +5,2457 @@
       "items": [
         {
           "node_type": "item",
+          "title": "BitChat",
+          "description": "P2P encrypted mesh communication over Bluetooth for agent-to-agent networking cagataycali/strands-bitchat Communication",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1039851119,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:54:42Z",
+            "owner": "cagataycali",
+            "repo": "strands-bitchat",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Nvidia NIM",
+          "description": "Nvidia NIM provider that fixes message formatting compatibility with Strands Agents thiago4go/strands-nvidia-nim Model Providers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1008045161,
+            "language": "Python",
+            "last_commit": "2025-06-25T01:09:55Z",
+            "owner": "thiago4go",
+            "repo": "strands-nvidia-nim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands CLOVA",
+          "description": "CLOVA Studio model provider with native Korean language support and bilingual capabilities aidendef/strands-clova Model Providers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1053850693,
+            "language": "Python",
+            "last_commit": "2025-09-10T05:22:22Z",
+            "owner": "aidendef",
+            "repo": "strands-clova",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands MLX",
+          "description": "MLX model provider for Strands Agents enabling local inference and LoRA fine-tuning on Apple Silicon with training pipeline, dynamic model invocation, and support for mlx-community quantized models cagataycali/strands-mlx Model Providers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1087240896,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:54:15Z",
+            "owner": "cagataycali",
+            "repo": "strands-mlx",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dum-E",
+          "description": "AI-powered robotic assistant inspired by Tony Stark's Dum-E with voice, vision, and robotic arm capabilities for real-time human interaction and physical operations using Strands Agents framework aaronsu11/Dum-E Robotics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 999595136,
+            "language": "Python",
+            "last_commit": "2026-06-16T19:44:50Z",
+            "owner": "aaronsu11",
+            "repo": "Dum-E",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Robots",
+          "description": "Robot control for Strands Agents integrating NVIDIA Isaac GR00T for vision-language-action policies and LeRobot for universal robot support. Natural language control for SO-100/SO-101, Fourier GR-1, Bimanual Panda, and Unitree G1 robots on Thor Dev Kit cagataycali/strands-robots Robotics",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1093810108,
+            "language": "Python",
+            "last_commit": "2026-03-04T18:28:26Z",
+            "owner": "cagataycali",
+            "repo": "strands-robots",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands LocateAnything",
+          "description": "Visual-grounding tools that turn NVIDIA LocateAnything-3B into reusable Strands Agents and Strands Robots tools for locating natural-language targets in camera images, with SO-101 and Unitree G1 simulation demos hashtagemy/strands-locate-anything Robotics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1317326306,
+            "language": "Python",
+            "last_commit": "2026-07-30T17:35:07Z",
+            "owner": "hashtagemy",
+            "repo": "strands-locate-anything",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Spot",
+          "description": "Boston Dynamics Spot robot control tool for Strands Agents framework enabling natural language control of Spot robots through Python integration cagataycali/strands-spot Robotics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1121224077,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:51:46Z",
+            "owner": "cagataycali",
+            "repo": "strands-spot",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Live",
+          "description": "Live speech-to-speech agent mkmeral/strands-live Voice/Audio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1003822009,
+            "language": "Python",
+            "last_commit": "2025-06-27T10:24:49Z",
+            "owner": "mkmeral",
+            "repo": "strands-live",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands OmniVoice",
+          "description": "Multilingual zero-shot TTS toolkit for Strands Agents wrapping k2-fsa/OmniVoice. 600+ languages, voice cloning from 3-10s reference audio, voice design via attributes (gender/age/pitch/accent), built-in Whisper ASR, batch synthesis, and inline tags. Apple Silicon + CUDA + CPU auto-device. cagataycali/strands-omnivoice Voice/Audio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1240937184,
+            "language": "Python",
+            "last_commit": "2026-05-16T21:30:45Z",
+            "owner": "cagataycali",
+            "repo": "strands-omnivoice",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Agents MCP",
+          "description": "MCP server to execute agents through Model Context Protocol imgaray/strands-agents-mcp MCP/Protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 985524852,
+            "language": "Python",
+            "last_commit": "2025-05-26T15:31:13Z",
+            "owner": "imgaray",
+            "repo": "strands-agents-mcp",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands MCP Server",
+          "description": "MCP server & client tools for Strands Agents with HTTP/stdio transports, CLI entrypoint for Claude Desktop/Kiro integration, proxy mode for stdio↔HTTP bridging, stateless mode for production, hot reload support, and invoke_agent capabilities. Published on PyPI with comprehensive documentation. cagataycali/strands-mcp-server MCP/Protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1093935881,
+            "language": "Python",
+            "last_commit": "2026-07-15T23:00:46Z",
+            "owner": "cagataycali",
+            "repo": "strands-mcp-server",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nx Plugin for AWS - Strands Agent Generator",
+          "description": "The Nx Plugin for AWS helps you to quickly bootstrap and build AWS projects. The Strands Agent Generator sets up a Strands agent along with the CDK or Terraform infrastructure to deploy it to Bedrock AgentCore Runtime. awslabs/nx-plugin-for-aws Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 901565223,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:13:03Z",
+            "owner": "awslabs",
+            "repo": "nx-plugin-for-aws",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Studio for Strands Agent",
+          "description": "Visual drag-and-drop AI agent builder that builds complex multi-agent workflows without writing code, generates Python automatically from visual flows, supports custom tools & MCP servers, and provides real-time execution with streaming updates xiehust/strands_studio_ui Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1053533520,
+            "language": "TypeScript",
+            "last_commit": "2026-07-11T05:53:25Z",
+            "owner": "xiehust",
+            "repo": "strands_studio_ui",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Development Toolkit (ADT)",
+          "description": "CLI tool for building, testing, and iterating on Strands agents with project scaffolding, development server with chat UI, tool integration (custom tools & MCP), auto-discovery, and Docker container support for streamlined local development awslabs/agent-dev-toolkit Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1012741836,
+            "language": "Python",
+            "last_commit": "2026-07-06T13:57:02Z",
+            "owner": "awslabs",
+            "repo": "agent-dev-toolkit",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevDuck",
+          "description": "Self-modifying AI agent with hot-reload that builds itself at runtime. One Python file with 38+ tools, multi-protocol servers (TCP/WebSocket/MCP/IPC), auto-RAG, runtime tool management, dynamic package loading, and AWS deployment support cagataycali/devduck Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1051851340,
+            "language": "Python",
+            "last_commit": "2026-05-11T06:33:28Z",
+            "owner": "cagataycali",
+            "repo": "devduck",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cagataycali/strands-coder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1149303587,
+            "language": "Python",
+            "last_commit": "2026-06-14T06:27:59Z",
+            "owner": "cagataycali",
+            "repo": "strands-coder",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Containerized Strands Agents",
+          "description": "MCP server that hosts isolated Strands Agents in Docker containers with session persistence, custom system prompts, GitHub integration, AWS profile support, retry logic, idle timeout management, and browser-based web UI for agent management mkmeral/containerized-strands-agents Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1114762533,
+            "language": "Python",
+            "last_commit": "2026-05-19T00:13:01Z",
+            "owner": "mkmeral",
+            "repo": "containerized-strands-agents",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Research Agent",
+          "description": "Research agent sample for agent patterns including hot-reloading tools, multi-agent coordination, and persistent learning systems cagataycali/strands-research-agent Research & Analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1059067551,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:50:14Z",
+            "owner": "cagataycali",
+            "repo": "strands-research-agent",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands AgentCore Tools",
+          "description": "Agentic tools that enable AI agents to autonomously deploy, manage, and monitor themselves on AWS Bedrock AgentCore. 9 tools: configure, launch, invoke, agents, status, logs, memory, identity, session. Zero DevOps with CodeBuild. cagataycali/strands-agentcore-tools Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1082702796,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:50:54Z",
+            "owner": "cagataycali",
+            "repo": "strands-agentcore-tools",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strands-ccxt",
+          "description": "Universal CCXT tool for trading on 100+ cryptocurrency exchanges. Supports market data, order management, WebSocket streaming, and multi-exchange orderbook comparison. mertozbas/strands-ccxt Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137104870,
+            "language": "Python",
+            "last_commit": "2026-01-18T23:11:32Z",
+            "owner": "mertozbas",
+            "repo": "strands-ccxt",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Cosmos",
+          "description": "NVIDIA Cosmos Reason VLM provider for physical AI reasoning, video understanding, driving analysis, robot planning, and embodied intelligence. Supports Cosmos-Reason2-2B/8B with chain-of-thought reasoning, Jetson CUBLAS fix, and vision tool integration cagataycali/strands-cosmos Model Providers",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1161556651,
+            "language": "Python",
+            "last_commit": "2026-06-16T14:40:47Z",
+            "owner": "cagataycali",
+            "repo": "strands-cosmos",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands MicroGPT",
+          "description": "Karpathy's pure-Python microGPT as a Strands model provider — zero dependencies, pure autograd, trained from scratch. 815-line GPT with v2 Parameter Golf enhancements (ReLU², GQA, RoPE, U-Net skip connections). Use as Model, Tool, or standalone engine cagataycali/strands-microgpt Model Providers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1188580064,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:52:31Z",
+            "owner": "cagataycali",
+            "repo": "strands-microgpt",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands SGLang",
+          "description": "SGLang model provider for Strands Agents enabling on-policy agentic reinforcement learning training horizon-rl/strands-sglang Model Providers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1126036344,
+            "language": "Python",
+            "last_commit": "2026-08-20T04:07:41Z",
+            "owner": "strands-rl",
+            "repo": "strands-sglang",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Nova",
+          "description": "Amazon Nova API model provider for Strands Agents SDK amazon-nova-api/strands-nova Model Providers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1099306247,
+            "language": "Python",
+            "last_commit": "2025-12-02T19:26:48Z",
+            "owner": "amazon-nova-api",
+            "repo": "strands-nova",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Strudel",
+          "description": "Live coding music with AI — Strands Agents tool for real-time Strudel pattern generation and WebSocket playback. AI-powered musical composition through natural language cagataycali/strands-strudel Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1147549165,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:51:10Z",
+            "owner": "cagataycali",
+            "repo": "strands-strudel",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Inspect",
+          "description": "X-ray vision for Python — scan packages, profile code, sandbox functions. Dependency analysis, AST inspection, and security scanning in one tool for Strands Agents cagataycali/strands-inspect Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1170533486,
+            "language": "Python",
+            "last_commit": "2026-07-23T17:16:16Z",
+            "owner": "cagataycali",
+            "repo": "strands-inspect",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Env",
+          "description": "Standardizing environment infrastructure for agentic RL with Strands Agents — step, observe, reward. Gym-like interface for agent training and evaluation horizon-rl/strands-env Reinforcement Learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1145773363,
+            "language": "Python",
+            "last_commit": "2026-08-20T10:12:21Z",
+            "owner": "strands-rl",
+            "repo": "strands-env",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Async Agentic Tools",
+          "description": "True async tools for Strands Agents — the model keeps talking while tools run in the background. Parallel tool execution with streaming responses mikegc-aws/async-agentic-tools Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1159857523,
+            "language": "Python",
+            "last_commit": "2026-05-28T00:45:01Z",
+            "owner": "mikegc-aws",
+            "repo": "async-agentic-tools",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Functions",
+          "description": "Python functions powered by AI agents with runtime post-conditions for reliable agentic workflows. Strands Labs official project strands-labs/ai-functions Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1154860308,
+            "language": "Python",
+            "last_commit": "2026-08-18T17:04:57Z",
+            "owner": "strands-labs",
+            "repo": "ai-functions",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robots Sim",
+          "description": "Simulated environments for robot agent evaluation and reinforcement learning. MuJoCo, Isaac Sim integration for strands-robots testing strands-labs/robots-sim Robotics",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1162028342,
+            "language": "Python",
+            "last_commit": "2026-08-06T01:33:11Z",
+            "owner": "strands-labs",
+            "repo": "robots-sim",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Compose",
+          "description": "Zero-code YAML-driven agent orchestration over Strands Agents. Define multi-agent workflows declaratively without writing Python strands-compose/sdk-python Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1190006652,
+            "language": "Python",
+            "last_commit": "2026-08-15T23:03:56Z",
+            "owner": "strands-compose",
+            "repo": "sdk-python",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Deep Agents",
+          "description": "DeepAgents pattern implementation — planning-capable agents with autonomous sub-agent delegation and persistent state management lemopian/strands-deep-agents Multi-Agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1089625948,
+            "language": "Python",
+            "last_commit": "2026-05-16T09:41:39Z",
+            "owner": "lemopian",
+            "repo": "strands-deep-agents",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hindsight-strands",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1086419061,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:37:09Z",
+            "owner": "vectorize-io",
+            "repo": "hindsight",
+            "stars": 21022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vectorize-io/hindsight",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1086419061,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:37:09Z",
+            "owner": "vectorize-io",
+            "repo": "hindsight",
+            "stars": 21022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Redis Session Manager",
+          "description": "Redis-based session management for persisting and managing agent sessions in the Strands Agents SDK lekhnath/strands-redis-session-manager Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1097134180,
+            "language": "Python",
+            "last_commit": "2026-07-25T18:14:22Z",
+            "owner": "lekhnath",
+            "repo": "strands-redis-session-manager",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Agent Template",
+          "description": "Boilerplate template repo for getting started with Strands Agents including TypeScript CDK infrastructure and AgentCore deployment deeheber/strands-agent-template Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1105579317,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T02:35:48Z",
+            "owner": "deeheber",
+            "repo": "strands-agent-template",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-strands-agent",
+          "description": "Scaffolding CLI for Strands Agents TypeScript projects — generates production-ready agents with memory, guardrails, A2A protocol, and AgentCore deployment via npx create-strands-agent tverney/create-strands-agent Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1228441012,
+            "language": "TypeScript",
+            "last_commit": "2026-05-05T00:59:27Z",
+            "owner": "tverney",
+            "repo": "create-strands-agent",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Job Search Agent",
+          "description": "AI agent built with Strands deployed to Amazon Bedrock AgentCore to aid in the job hunt with CDK infrastructure deeheber/job-search-agent Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1119778564,
+            "language": "Python",
+            "last_commit": "2026-08-16T23:47:35Z",
+            "owner": "deeheber",
+            "repo": "job-search-agent",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blueclaw",
+          "description": "Observable AI agent runtime with built-in execution tracing. Inspect, replay, diff, and debug agent behavior step by step. Model-agnostic, built on Strands SDK jztan/blueclaw Observability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1181826722,
+            "language": "Python",
+            "last_commit": "2026-08-22T14:29:19Z",
+            "owner": "jztan",
+            "repo": "blueclaw",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClawSkills Strands",
+          "description": "Convert OpenClaw skills (markdown documentation) to executable Strands Agents tools Vivek0712/clawskills-strands Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1151223861,
+            "language": "Python",
+            "last_commit": "2026-02-06T07:44:36Z",
+            "owner": "Vivek0712",
+            "repo": "clawskills-strands",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentX",
+          "description": "Agent runtime implementation based on Strands Agents SDK with enhanced execution capabilities Moonlight-CL/AgentX Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1041313533,
+            "language": "Python",
+            "last_commit": "2026-03-25T02:44:33Z",
+            "owner": "Moonlight-CL",
+            "repo": "AgentX",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Valyu AgentCore",
+          "description": "Valyu search tools for AWS Bedrock AgentCore and Strands Agents valyuAI/valyu-agentcore Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1109477736,
+            "language": "Python",
+            "last_commit": "2026-04-09T14:33:46Z",
+            "owner": "valyuAI",
+            "repo": "valyu-agentcore",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meta AI Agent for AgentCore",
+          "description": "Voice AI agent for Ray-Ban Meta smart glasses using Amazon Bedrock AgentCore and Strands Agents with Swift iOS app elizabethfuentes12/meta-ai-agent-sample-for-aws-agentcore Voice/Audio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1175642472,
+            "language": "Swift",
+            "last_commit": "2026-03-08T18:27:30Z",
+            "owner": "elizabethfuentes12",
+            "repo": "meta-ai-agent-sample-for-aws-agentcore",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Rust SDK (peitaosu)",
+          "description": "Alternative Rust implementation of Strands Agents with LLM framework and orchestration support peitaosu/strands-rs SDK Implementations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1121566421,
+            "language": "Rust",
+            "last_commit": "2025-12-23T07:39:19Z",
+            "owner": "peitaosu",
+            "repo": "strands-rs",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Chatbot Accelerator",
+          "description": "IaC web application deployment for agentic chatbots built on AWS Strands and Amazon Bedrock AgentCore with CDK aws-samples/sample-agentic-chatbot-accelerator Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1162509967,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T14:22:18Z",
+            "owner": "aws-samples",
+            "repo": "sample-agentic-chatbot-accelerator",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BADGERS Document Analysis",
+          "description": "Generative AI document analysis with Gestalt-informed vision prompts, auto-classification, and custom analyzer creation on AgentCore aws-samples/sample-badgers Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1148963395,
+            "language": "Python",
+            "last_commit": "2026-08-09T10:04:40Z",
+            "owner": "aws-samples",
+            "repo": "sample-badgers",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nova Sonic WebSocket AgentCore",
+          "description": "Real-time voice AI agent with Amazon Nova Sonic, WebSocket streaming, React UI, and one-command AgentCore deployment aws-samples/sample-nova-sonic-websocket-agentcore Voice/Audio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1161064753,
+            "language": "TypeScript",
+            "last_commit": "2026-04-23T05:01:37Z",
+            "owner": "aws-samples",
+            "repo": "sample-nova-sonic-websocket-agentcore",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nova Sonic Speech2Speech WebRTC",
+          "description": "Speech-to-speech voice agent with Amazon Nova 2 Sonic via Kinesis Video Streams WebRTC, supporting tool use, RAG, MCP, and Strands aws-samples/sample-nova-sonic-speech2speech-webrtc Voice/Audio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1047388493,
+            "language": "Python",
+            "last_commit": "2026-05-16T00:33:50Z",
+            "owner": "aws-samples",
+            "repo": "sample-nova-sonic-speech2speech-webrtc",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chaos Engineering Agents",
+          "description": "Chaos engineering agents built with Strands for automated resilience testing and fault injection on AWS infrastructure aws-samples/sample-strands-chaos-engineering-agents DevOps & Operations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1029987037,
+            "language": "Python",
+            "last_commit": "2026-08-18T19:38:13Z",
+            "owner": "aws-samples",
+            "repo": "sample-strands-chaos-engineering-agents",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Why Agents Fail",
+          "description": "How to stop AI agents from hallucinating and wasting tokens. Working demos: Graph-RAG, semantic tool selection, neurosymbolic guardrails, DebounceHook aws-samples/sample-why-agents-fail Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1155842362,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-01T20:53:41Z",
+            "owner": "aws-samples",
+            "repo": "sample-why-agents-fail",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentCore RAI Strands",
+          "description": "Responsible AI integration with Amazon Bedrock AgentCore and Strands Agents for guardrails and safety aws-samples/sample-agentcore-rai-strands-agents Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1083320939,
+            "language": "Python",
+            "last_commit": "2026-04-13T18:35:52Z",
+            "owner": "aws-samples",
+            "repo": "sample-agentcore-rai-strands-agents",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDP Pipeline",
+          "description": "End-to-end Intelligent Document Processing pipeline with Amazon Bedrock, LanceDB, Lambda, Strands Agents, and Step Functions for PDFs, images, videos, and audio aws-samples/sample-aws-idp-pipeline Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1102202627,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T20:16:48Z",
+            "owner": "aws-samples",
+            "repo": "sample-aws-idp-pipeline",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bedrock Agents MCP Workshop (Temporal)",
+          "description": "Hands-on workshop on building AI agents with Strands, MCP, and Temporal for durable execution patterns temporal-community/bedrock-agents-mcp-workshop Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1165445407,
+            "language": "Python",
+            "last_commit": "2026-03-20T12:59:29Z",
+            "owner": "temporal-community",
+            "repo": "bedrock-agents-mcp-workshop",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Agent with AgentCore",
+          "description": "Official quickstart sample for deploying Strands Agents on Amazon Bedrock AgentCore aws-samples/sample-strands-agent-with-agentcore Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1037029275,
+            "language": "Python",
+            "last_commit": "2026-08-20T06:41:58Z",
+            "owner": "aws-samples",
+            "repo": "sample-strands-agent-with-agentcore",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JUANAN MRI Tumor Detection",
+          "description": "Swarm of AI agents collaborating with doctors to detect tumors in MRI images using Strands multi-agent orchestration oteroantoniogom/JUANAN Healthcare",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 989945033,
+            "language": "Python",
+            "last_commit": "2025-07-10T17:10:41Z",
+            "owner": "aintoniodev",
+            "repo": "JUANAN",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airline Booking Agent v2",
+          "description": "Airline customer service agent on AgentCore with dual-memory (conversation + solutions), Gateway policy engine, MCP tools, and Cognito auth Anya2089/Airline-booking-demo-strandsagent-agentcore-ver2.0-withsolutionmanager Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1157701753,
+            "language": "Python",
+            "last_commit": "2026-02-14T06:50:32Z",
+            "owner": "Anya2089",
+            "repo": "Airline-booking-demo-strandsagent-agentcore-ver2.0-withsolutionmanager",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Fun Tools",
+          "description": "Creative and interactive tools for building unique AI agents with capabilities for Bluetooth monitoring, chess (Stockfish), clipboard management, cursor control, screen reading (OCR), YOLO vision, face recognition, audio transcription (Whisper), human-like typing, templates, cryptography, and dynamic package execution cagataycali/strands-fun-tools Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1083381507,
+            "language": "Python",
+            "last_commit": "2026-07-23T17:27:24Z",
+            "owner": "cagataycali",
+            "repo": "strands-fun-tools",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Tools Community",
+          "description": "Production-ready community tools for Strands Agents: Deepgram (speech-to-text, audio intelligence), HubSpot (CRM read-only access), and Microsoft Teams (adaptive card notifications). Published on PyPI with 30+ language support. eraykeskinmac/strands-tools-community Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1072653462,
+            "language": "Python",
+            "last_commit": "2025-10-14T23:36:39Z",
+            "owner": "eraykeskinmac",
+            "repo": "strands-tools-community",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Tools Examples",
+          "description": "Real-world examples and interactive demo showcasing strands-tools-community in action. Includes call analytics workflows, CRM automation patterns, Teams notification templates, and an interactive REPL demo agent with hot-reload capabilities. eraykeskinmac/strands-tools-examples Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1072662044,
+            "language": "Python",
+            "last_commit": "2025-12-04T02:07:25Z",
+            "owner": "eraykeskinmac",
+            "repo": "strands-tools-examples",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands UCP",
+          "description": "Universal Commerce Protocol (UCP) tools for Strands Agents enabling agentic commerce with discovery, checkout, orders, payments, extensions (discounts, refunds, returns, disputes), request signature support, and full lifecycle management cagataycali/strands-ucp Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1132346205,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:50:29Z",
+            "owner": "cagataycali",
+            "repo": "strands-ucp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strands-telegram",
+          "description": "Comprehensive Telegram Bot API integration tool for Strands Agents SDK with 60+ methods supporting messages, media, keyboards, polls, groups, webhooks, and file operations. Complete bot development capabilities with production-ready features. eraykeskinmac/strands-telegram Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079536770,
+            "language": "Python",
+            "last_commit": "2026-04-27T17:24:17Z",
+            "owner": "eraykeskinmac",
+            "repo": "strands-telegram",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strands-telegram-listener",
+          "description": "Real-time Telegram message processing tool for Strands Agents SDK with AI-powered auto-replies, background threading, event storage, and smart filtering. Long polling integration for automated bot responses and message handling. eraykeskinmac/strands-telegram-listener Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079547070,
+            "language": "Python",
+            "last_commit": "2026-04-27T17:25:15Z",
+            "owner": "eraykeskinmac",
+            "repo": "strands-telegram-listener",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strands-google",
+          "description": "Universal Google API integration providing access to 200+ Google services (Gmail, Drive, Calendar, YouTube, Sheets, Docs, etc.) with flexible OAuth 2.0, service account, and API key authentication. Includes helper tools for Gmail operations and dynamic scope configuration. cagataycali/strands-google Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1120856731,
+            "language": "Python",
+            "last_commit": "2026-07-23T17:15:46Z",
+            "owner": "cagataycali",
+            "repo": "strands-google",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strands-rendercv",
+          "description": "AI-powered professional CV generation tool combining Strands Agents with RenderCV to create beautiful, typographically perfect CVs from YAML. Features AI-assisted content generation, schema validation, multi-format output (PDF/HTML/Markdown), 5 production-ready templates, and natural language CV customization for different job targets. cagataycali/strands-rendercv Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1130773896,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:51:28Z",
+            "owner": "cagataycali",
+            "repo": "strands-rendercv",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Transformers",
+          "description": "Run any HuggingFace transformers model from a Strands agent — every modality in, every modality out. One tool () with 100% task coverage built dynamically from , plus as a local multimodal brain that natively handles image, video, audio, and document content blocks (incl. inside ). Vision-language, speech, robot VLA (MolmoAct, OpenVLA), Cosmos reasoning, Omni audio-in + speech-out — local, no API keys cagataycali/strands-transformers Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1084393099,
+            "language": "Python",
+            "last_commit": "2026-07-23T03:48:36Z",
+            "owner": "cagataycali",
+            "repo": "strands-transformers",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Diffusers",
+          "description": "Universal entrypoint to HuggingFace for Strands Agents — one tool () wraps 300+ pipelines across every modality with zero hardcoding. Text→image, text→video (LTX, Wan, CogVideoX, Hunyuan), text→audio (StableAudio, AudioLDM2), 3D mesh generation (ShapE), and physical-AI world-foundation models (Cosmos3) producing both future world video AND robot action chunks for embodied agents cagataycali/strands-diffusers Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1269447740,
+            "language": "Python",
+            "last_commit": "2026-07-23T03:50:48Z",
+            "owner": "cagataycali",
+            "repo": "strands-diffusers",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strands-cad",
+          "description": "Prompt-to-print pipeline for AI agents: 65 atomic CAD/mesh/SDF/CadQuery/neural tools spanning four independent paths to a printable 3D asset (parametric SCAD, B-rep NURBS, implicit SDF, neural text/image→3D), plus mesh QA, slicing, Bambu Lab printer control, MuJoCo sim for robot-training props, and a WebAuthn-gated live printer dashboard with real-time chamber camera. Exposes all tools over MCP. cagataycali/strands-cad Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1302047653,
+            "language": "Python",
+            "last_commit": "2026-08-19T07:30:49Z",
+            "owner": "cagataycali",
+            "repo": "strands-cad",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strands-icloud",
+          "description": "One Strands tool for the entire Apple ecosystem — Mail, Calendar, Messages, Contacts, Photos, Notes, Reminders, and Find My. Local-first on macOS, remote-capable via standard protocols (IMAP/pyicloud), returns real image blocks the model can see, and exposable over MCP. cagataycali/strands-icloud Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1308157541,
+            "language": "Python",
+            "last_commit": "2026-07-27T19:19:31Z",
+            "owner": "cagataycali",
+            "repo": "strands-icloud",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced Strands Agents with MCP",
+          "description": "Comprehensive advanced course for building production-ready AI agents using the Strands Agents SDK with 6 progressive labs teaching tool integration, memory persistence, Model Context Protocol (MCP), and observability aws-samples/sample-Advanced-Strands-Agents-with-MCP Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1068808933,
+            "language": "Python",
+            "last_commit": "2025-10-03T00:15:26Z",
+            "owner": "aws-samples",
+            "repo": "sample-Advanced-Strands-Agents-with-MCP",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Kubernetes Management",
+          "description": "Natural language DevOps with Strands AI agent using MCP servers to expose Kubernetes tools (pods, namespaces, logs) for conversational cluster management Tarique-B-DevOps/Agentic-Kubernetes-Management DevOps & Operations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1074782541,
+            "language": "Python",
+            "last_commit": "2026-01-15T13:07:17Z",
+            "owner": "Tarique-B",
+            "repo": "Agentic-Kubernetes-Management",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bedrock Dining Agent",
+          "description": "Sophisticated AI dining assistant built with Amazon Bedrock AgentCore featuring BrightData MCP integration for real restaurant search and React frontend with dynamic model selection awsdataarchitect/bedrock-dining-agent Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1051246588,
+            "language": "TypeScript",
+            "last_commit": "2025-09-05T19:20:02Z",
+            "owner": "awsdataarchitect",
+            "repo": "bedrock-dining-agent",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fraud Investigation Assistant",
+          "description": "Production-ready fraud investigation system using AWS Bedrock, MCP servers, and Strands expert agents with private MCP servers for secure data and open-source MCPs for public intelligence gathering aws-samples/sample-fraud-investigation-assistance-using-aws-bedrock-strandsagents-mcp Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1015487706,
+            "language": "HCL",
+            "last_commit": "2026-02-20T23:38:13Z",
+            "owner": "aws-samples",
+            "repo": "sample-fraud-investigation-assistance-using-aws-bedrock-strandsagents-mcp",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Getting Started with Strands Agents Course",
+          "description": "Complete learning course for building AI agents with Strands framework covering LLM integration via Amazon Bedrock/Anthropic, AWS service connections, tool implementation with MCP/A2A protocols, and agent evaluation using LangFuse/RAGAS aws-samples/sample-getting-started-with-strands-agents-course Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1032753726,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-05T21:55:57Z",
+            "owner": "aws-samples",
+            "repo": "sample-getting-started-with-strands-agents-course",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Agent Hotel Assistant",
+          "description": "AWS-powered hotel booking multi-agent assistant built with Strands Agents, Amazon Bedrock AgentCore, A2A protocol, MCP, Bedrock Knowledge Base, serverless Lambda integrations, and AWS CDK for natural-language hotel operations mohsinsheikhani/multi-agent-hotel-assistant Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1065295435,
+            "language": "TypeScript",
+            "last_commit": "2025-09-29T20:05:20Z",
+            "owner": "mohsinsheikhani",
+            "repo": "multi-agent-hotel-assistant",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-modal Agent Samples",
+          "description": "Production-ready samples for building multi-modal AI agents that understand images, documents, videos, and text using Amazon Bedrock and Strands Agents with Claude integration, MCP tools, streaming responses, and enterprise-grade architecture elizabethfuentes12/strands-agent-samples Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1025686898,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-14T01:47:32Z",
+            "owner": "elizabethfuentes12",
+            "repo": "strands-agent-samples",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sample Strands Agents Chat",
+          "description": "Full-stack AI chat application powered by Amazon Bedrock, Strands Agents, and Bedrock AgentCore with complete web interface and cloud deployment capabilities aws-samples/sample-strands-agents-chat Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1037068834,
+            "language": "TypeScript",
+            "last_commit": "2026-02-14T11:56:38Z",
+            "owner": "aws-samples",
+            "repo": "sample-strands-agents-chat",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sample-agentic-form-filling",
+          "description": "AI-powered browser automation agent for airline check-in workflows using Strands Agents SDK with AWS Bedrock and Playwright. Features AgentCore episodic memory, accessibility tree analysis, and semantic element discovery. aws-samples/sample-agentic-form-filling Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1135605060,
+            "language": "Python",
+            "last_commit": "2026-04-15T21:25:22Z",
+            "owner": "aws-samples",
+            "repo": "sample-agentic-form-filling",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Agents Workshop",
+          "description": "One-shot course on Strands Agents with notebooks, scripts, resources and projects to take you from Zero to Hero in Strands Agents SDK usage for your Agentic AI journey LondheShubham153/strands-agents-workshop Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1039447567,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-30T09:49:59Z",
+            "owner": "LondheShubham153",
+            "repo": "strands-agents-workshop",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Serverless",
+          "description": "Cloud serverless implementations of AWS Strands Agents focused on cost-efficiency and productivity with Docker containerization and Amazon Lightsail deployment examples didier-durand/strands-serverless Cloud & Deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1000856564,
+            "language": "Python",
+            "last_commit": "2025-06-20T05:33:04Z",
+            "owner": "didier-durand",
+            "repo": "strands-serverless",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ticket Router Agent",
+          "description": "Python-based agent that scans Gmail for bug tickets, classifies them by department using contextual analysis, and automatically routes each ticket to the appropriate team for streamlined support workflows callraV/strands-agents-ticket-router Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1004361720,
+            "language": "Python",
+            "last_commit": "2025-07-16T13:42:00Z",
+            "owner": "callraV",
+            "repo": "strands-agents-ticket-router",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wildfire Nowcast Agent",
+          "description": "Intelligent wildfire detection and response agent using Amazon Bedrock AgentCore with Strands Agent framework providing real-time NASA Earth observation data integration, threat assessment, live mapping, and ICS reporting myat555/WildfireNowcast Environmental",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1056888017,
+            "language": "Python",
+            "last_commit": "2025-11-06T05:04:27Z",
+            "owner": "myat555",
+            "repo": "WildfireNowcast",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic AI Dungeon Game",
+          "description": "Complete tutorial for building an AI-powered dungeon adventure game using Strands Agents on Amazon Bedrock AgentCore with React/Vite frontend, tRPC API, TypeScript MCP servers, and CDK infrastructure deployment awslabs/nx-plugin-for-aws Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 901565223,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:13:03Z",
+            "owner": "awslabs",
+            "repo": "nx-plugin-for-aws",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic Summarizing Conversation Manager",
+          "description": "A conversation management system for Strands Agents that combines summarization with exact message recall using semantic search. danilop/strands-agents-semantic-summarizing-conversation-manager Context Engineering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1063417672,
+            "language": "Python",
+            "last_commit": "2025-11-03T09:42:55Z",
+            "owner": "danilop",
+            "repo": "strands-agents-semantic-summarizing-conversation-manager",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Temporal Agents",
+          "description": "Durable execution for AI agents built with Temporal workflow orchestration showing simple direct execution vs enterprise-grade distributed workflows with retries, monitoring, and fault tolerance LondheShubham153/strands-temporal-agents Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1081910815,
+            "language": "Python",
+            "last_commit": "2026-02-18T16:05:20Z",
+            "owner": "LondheShubham153",
+            "repo": "strands-temporal-agents",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands A2A Demo",
+          "description": "Complete Agent-to-Agent (A2A) Protocol demonstration with Strands Agents showing official A2A SDK patterns, coordinator agents, and web-based voice interface with Amazon Nova Sonic danilop/strands-a2a-demo MCP/Protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1016144269,
+            "language": "Python",
+            "last_commit": "2025-07-16T14:35:53Z",
+            "owner": "danilop",
+            "repo": "strands-a2a-demo",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multimodal Agent Tutorial",
+          "description": "Build production-ready AI agents with 8 hands-on chapters covering hello world, custom tools, MCP integration, state management, S3 vector memory, travel assistant demo, and AgentCore production deployment aws-samples/sample-multimodal-agent-tutorial Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1100026620,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-14T19:25:59Z",
+            "owner": "aws-samples",
+            "repo": "sample-multimodal-agent-tutorial",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Server for OSCAL",
+          "description": "Model Context Protocol server providing AI agents with tools to work with NIST's Open Security Controls Assessment Language (OSCAL) for GRC automation and compliance workflows awslabs/mcp-server-for-oscal DevOps & Compliance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1110813632,
+            "language": "Python",
+            "last_commit": "2026-06-23T20:40:08Z",
+            "owner": "awslabs",
+            "repo": "mcp-server-for-oscal",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Doc Read Studio",
+          "description": "Web-based collaborative document review application using multi-agent discussions with Strands Agents and Amazon Nova models to simulate team reviews with real-time updates and export options danilop/ai-doc-read-studio Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1028526707,
+            "language": "Python",
+            "last_commit": "2025-07-31T17:12:43Z",
+            "owner": "danilop",
+            "repo": "ai-doc-read-studio",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Skills",
+          "description": "Agent Skills implementation for Strands Agents SDK demonstrating the meta-tool pattern for dynamic tool composition and capability extension aws-samples/sample-strands-agents-agentskills Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1127581739,
+            "language": "Python",
+            "last_commit": "2026-07-25T04:14:28Z",
+            "owner": "aws-samples",
+            "repo": "sample-strands-agents-agentskills",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentCore Starter Kit",
+          "description": "Full-stack conversational AI starter kit built with Amazon Bedrock AgentCore, Strands Agents SDK, FastAPI, and htmx for rapid prototyping aws-samples/sample-strands-agentcore-starter Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1115329475,
+            "language": "Python",
+            "last_commit": "2026-08-20T06:09:47Z",
+            "owner": "aws-samples",
+            "repo": "sample-strands-agentcore-starter",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advertising Agents on AWS",
+          "description": "Comprehensive agentic application for advertising workflows using Amazon Bedrock AgentCore showcasing multi-agent collaboration for media planning, audience targeting, and bid optimization aws-solutions-library-samples/guidance-for-advertising-agents-on-aws Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1055730295,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:48:19Z",
+            "owner": "aws-solutions-library-samples",
+            "repo": "guidance-for-advertising-agents-on-aws",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Cost Optimizer",
+          "description": "AI-powered AWS cost optimization agent that analyzes spending patterns and recommends cost-saving actions using Strands Agents aws-samples/sample-agentic-cost-optimizer DevOps & Operations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1086436106,
+            "language": "Python",
+            "last_commit": "2026-08-17T09:09:25Z",
+            "owner": "aws-samples",
+            "repo": "sample-agentic-cost-optimizer",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Health Agentic Assistant",
+          "description": "Agentic AI assistant for proactive AWS Health Event management, impact analysis, and automated response recommendations aws-samples/sample-aws-health-agentic-assistant DevOps & Operations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1114187325,
+            "language": "Python",
+            "last_commit": "2026-06-22T02:42:48Z",
+            "owner": "aws-samples",
+            "repo": "sample-aws-health-agentic-assistant",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opik MCP Server",
+          "description": "Production-ready AI agent evaluation using Opik MCP Server on AWS AgentCore for comprehensive agent testing and quality assurance anespo/opik-mcp-server Evaluation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1127842998,
+            "language": "Python",
+            "last_commit": "2026-01-04T23:24:46Z",
+            "owner": "anespo",
+            "repo": "opik-mcp-server",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Okahu AWS Strands AgentCore",
+          "description": "AWS Strands agent with AgentCore deployment featuring Monocle/Okahu integration for comprehensive observability, GenAI tracing, and production monitoring with visual trace inspection okahu-demos/aws-strands-agentcore Observability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1138051217,
+            "language": "Python",
+            "last_commit": "2026-08-20T11:54:19Z",
+            "owner": "okahu-demos",
+            "repo": "aws-strands-agentcore",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands ERC-8004",
+          "description": "On-chain identity for AI agents via ERC-8004 standard. Register agents as ERC-721 NFTs on Ethereum/Base/Polygon with IPFS storage, reputation scoring, third-party validation, and multi-chain support across 11+ mainnets and testnets cagataycali/strands-erc8004 Blockchain/Trading",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1154153160,
+            "language": "Python",
+            "last_commit": "2026-07-23T16:55:22Z",
+            "owner": "cagataycali",
+            "repo": "strands-erc8004",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands HackerOne",
+          "description": "HackerOne integration tool for Strands Agents enabling automated security vulnerability management and bug bounty workflows cagataycali/strands-hackerone Security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1129997527,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:53:38Z",
+            "owner": "cagataycali",
+            "repo": "strands-hackerone",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Frameworks on AWS",
+          "description": "Build Agentic AI solutions on AWS using latest OSS Agentic Frameworks including Strands, CrewAI, LangGraph, LlamaIndex with A2A protocol integration, Arize Phoenix observability, and mem0 memory management aws-samples/sample-agentic-frameworks-on-aws Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 904347595,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-02T16:40:45Z",
+            "owner": "aws-samples",
+            "repo": "sample-agentic-frameworks-on-aws",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless RAG Demo",
+          "description": "Amazon Bedrock Foundation models with Amazon OpenSearch Serverless as a Vector DB, featuring RAG capabilities with Anthropic Claude, Haiku, Sonnet models and Strands Agents integration aws-samples/serverless-rag-demo Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 681931799,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T18:19:46Z",
+            "owner": "aws-samples",
+            "repo": "serverless-rag-demo",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Agents (Chinese)",
+          "description": "Multi-agent project based on Strands Agents SDK for building sophisticated multi-intelligence systems with Chinese language support 1844909740/mutli-agents Multi-Agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1112820064,
+            "language": "Python",
+            "last_commit": "2025-12-26T06:10:03Z",
+            "owner": "1844909740",
+            "repo": "mutli-agents",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Platform",
+          "description": "A sample agentic AI platform to run agentic workflows on AWS using EKS or Bedrock AgentCore with open source frameworks like LangChain/LangGraph, Strands, and more aws-samples/sample-agentic-platform Cloud & Deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 970217836,
+            "language": "Python",
+            "last_commit": "2026-06-18T10:53:17Z",
+            "owner": "aws-samples",
+            "repo": "sample-agentic-platform",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast LLM Agent MCP",
+          "description": "Comprehensive repo covering LLM, Agents concepts both theoretically and practically: LLMs, RAG, Fine Tuning, Agents, Tools, MCP, AWS Strands Agents, Google Agent Development Kit (ADK) omerbsezer/Fast-LLM-Agent-MCP Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961856693,
+            "language": "Python",
+            "last_commit": "2026-08-04T10:38:26Z",
+            "owner": "omerbsezer",
+            "repo": "Fast-LLM-Agent-MCP",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Agent Examples",
+          "description": "Practical examples showing how to use Strands Agents with AWS integration patterns and best practices kyopark2014/strands-agent Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 985988856,
+            "language": "Python",
+            "last_commit": "2026-07-29T06:40:01Z",
+            "owner": "kyopark2014",
+            "repo": "strands-agent",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloud Engineer Agent",
+          "description": "Building an Intelligent AWS Cloud Engineer Agent with Strands Agents SDK, featuring AWS CDK deployment, Bedrock integration, and Fargate infrastructure awsdataarchitect/cloudeng-strands-agent Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 986491902,
+            "language": "Python",
+            "last_commit": "2025-12-16T21:16:51Z",
+            "owner": "awsdataarchitect",
+            "repo": "cloudeng-strands-agent",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Strands Agents",
+          "description": "Project designed to learn and develop Strands Agents, leveraging the SDK power for building efficient AI agents with Jupyter notebooks davidshtian/Learning-Strands-Agents Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 992077111,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-03T08:07:19Z",
+            "owner": "davidshtian",
+            "repo": "Learning-Strands-Agents",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exam Generator",
+          "description": "AI-powered exam generator based on Strands Agent for creating educational assessments Anya2089/exam_generator_strands Education",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1025250585,
+            "language": "HTML",
+            "last_commit": "2025-10-23T06:35:15Z",
+            "owner": "Anya2089",
+            "repo": "exam_generator_strands",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Life Science Research Assistant",
+          "description": "Build a life science research assistant using Strands Agents for drug discovery and scientific research workflows aws-samples/sample-build-a-life-science-research-assistant-using-strands-agents Research & Analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 993461006,
+            "language": "Python",
+            "last_commit": "2025-12-02T17:01:10Z",
+            "owner": "aws-samples",
+            "repo": "sample-build-a-life-science-research-assistant-using-strands-agents",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevCrew S1",
+          "description": "Specification for an agentic software development crew (hierarchical style) for implementation with mainstream Agentic platforms like Claude Code, Strands, etc. GSA-TTS/devCrew_s1 Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1066354952,
+            "language": "Python",
+            "last_commit": "2026-07-21T10:11:56Z",
+            "owner": "GSA-TTS",
+            "repo": "devCrew_s1",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic AI with KubeArmor",
+          "description": "An agentic AI dashboard app using AWS Strands SDK showcasing KubeArmor-based least-permissive security for AI agent workloads accuknox/agentic-ai-strands Security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 986313080,
+            "language": "Python",
+            "last_commit": "2026-08-23T16:20:34Z",
+            "owner": "accuknox",
+            "repo": "agentic-ai-strands",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Agents Ecosystem",
+          "description": "A comprehensive multi-agent coordination system built with the Strands framework, demonstrating advanced \"Agents as Tools\" patterns for solving complex cloud engineering problems 4l3j4ndr0/strands-agents-ecosystem Multi-Agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1005265886,
+            "language": "Python",
+            "last_commit": "2025-08-19T22:39:02Z",
+            "owner": "4l3j4ndr0",
+            "repo": "strands-agents-ecosystem",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Web UI",
+          "description": "A Streamlit WebUI for Strands Agent SDK providing a visual interface for agent interaction jief123/strands-web-ui Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 985310646,
+            "language": "Python",
+            "last_commit": "2025-07-11T11:30:52Z",
+            "owner": "jief123",
+            "repo": "strands-web-ui",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLite Session Manager",
+          "description": "A session manager for Strands Agents that uses SQLite as the backend store. afarntrog/strands-sqlite-session-manager Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1095917056,
+            "language": "Python",
+            "last_commit": "2025-11-14T03:03:08Z",
+            "owner": "afarntrog",
+            "repo": "strands-sqlite-session-manager",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Agents Extensions",
+          "description": "Community extensions for the Strands Agents SDK — session managers, plugins, and more afarntrog/strands-agents-extensions Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1195742445,
+            "language": "Python",
+            "last_commit": "2026-04-13T18:24:24Z",
+            "owner": "afarntrog",
+            "repo": "strands-agents-extensions",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentCore Multi-Framework Examples",
+          "description": "Amazon Bedrock AgentCore examples demonstrating multi-framework deployments with Strands, LangGraph, and other popular agent frameworks danilop/agentcore-multi-framework-examples Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1057106599,
+            "language": "Python",
+            "last_commit": "2025-09-24T08:12:21Z",
+            "owner": "danilop",
+            "repo": "agentcore-multi-framework-examples",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands re:Invent Demo",
+          "description": "AWS re:Invent demonstration showcasing Strands Agents capabilities with interactive examples cagataycali/strands-re-invent Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1080728861,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:52:40Z",
+            "owner": "cagataycali",
+            "repo": "strands-re-invent",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bedrock Data Automation Agents",
+          "description": "Intelligent document processing (IDP) solution using Amazon Bedrock Data Automation (BDA) with Strands Agents deployed through AgentCore aws-samples/sample-for-amazon-bda-agents Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1091947346,
+            "language": "Python",
+            "last_commit": "2025-11-07T19:05:27Z",
+            "owner": "aws-samples",
+            "repo": "sample-for-amazon-bda-agents",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logistics Agent AgentCore",
+          "description": "Logistics tracking agent using Strands SDK and OpenAI on AgentCore Runtime with VPC connectivity and private RDS database integration aws-samples/sample-logistics-agent-agentcore-runtime Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1118494704,
+            "language": "Python",
+            "last_commit": "2026-07-28T08:09:38Z",
+            "owner": "aws-samples",
+            "repo": "sample-logistics-agent-agentcore-runtime",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentCore Hands-On Labs",
+          "description": "Hands-on labs demonstrating Amazon Bedrock AgentCore capabilities for secure, scalable AI agent deployment aws-samples/sample-getting-started-with-amazon-agentcore Learning Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1082862399,
+            "language": "Python",
+            "last_commit": "2026-01-22T04:25:06Z",
+            "owner": "aws-samples",
+            "repo": "sample-getting-started-with-amazon-agentcore",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CopilotKit Strands Integration",
+          "description": "File analyzer demo showcasing CopilotKit integration with Strands Agents for AI-powered file analysis CopilotKit/strands-file-analyzer-demo Integration",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1108725983,
+            "language": "TypeScript",
+            "last_commit": "2026-03-12T20:35:22Z",
+            "owner": "CopilotKit",
+            "repo": "strands-file-analyzer-demo",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Manim Tutorial",
+          "description": "Agents & MCP tutorial for creating Manim mathematical animation videos with AI assistance DanielPuentee/strands-agents-manim Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1117435578,
+            "language": "Python",
+            "last_commit": "2025-12-17T09:08:46Z",
+            "owner": "DanielPuentee",
+            "repo": "strands-agents-manim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voice Cloning AgentCore",
+          "description": "Autonomous voice cloning agent powered by Amazon Bedrock AgentCore and Nova Premier Model for voice profile capture and speech synthesis awsdataarchitect/voice-cloning-agentcore Voice/Audio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079582438,
+            "language": "Svelte",
+            "last_commit": "2025-10-22T04:46:23Z",
+            "owner": "awsdataarchitect",
+            "repo": "voice-cloning-agentcore",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Temporal Loan Underwriter",
+          "description": "GenAI-powered loan underwriter demonstrating Temporal + Strands integration for durable agentic workflows darshitvvora/temporal-agentic-loan-underwriter Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1062290176,
+            "language": "Python",
+            "last_commit": "2025-10-12T15:47:40Z",
+            "owner": "darshitvvora",
+            "repo": "temporal-agentic-loan-underwriter",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strands-cloudflare",
+          "description": "Cloudflare tool for Strands Agents enabling infrastructure management for DNS, Workers, Pages, and other Cloudflare resources through AI agents mertozbas/strands-cloudflare Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1138566598,
+            "language": "Python",
+            "last_commit": "2026-01-22T10:13:11Z",
+            "owner": "mertozbas",
+            "repo": "strands-cloudflare",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HashTrade",
+          "description": "Real-time cryptocurrency trading dashboard with AI-powered \"vibe trading\", supporting 100+ exchanges via CCXT, memory-based learning, and mobile-first PWA mertozbas/hashtrade Blockchain/Trading",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1100209272,
+            "language": "Python",
+            "last_commit": "2026-02-27T20:32:24Z",
+            "owner": "mertozbas",
+            "repo": "hashtrade",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACG Protocol",
+          "description": "Audited Context Generation protocol preventing AI hallucinations through UGVP and RSVP layers with cryptographic verification, MongoDB vector search, and Gemini 2.5 Flash Kos-M/acg_protocol Context Engineering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1076440883,
+            "language": "Python",
+            "last_commit": "2026-06-13T21:40:43Z",
+            "owner": "Kos-M",
+            "repo": "acg_protocol",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentCore Multi-Tenant Sample",
+          "description": "AWS official multi-tenancy reference implementation with JWT-based tenant isolation, Cognito authentication, MCP servers, and complete CDK infrastructure aws-samples/sample-agentcore-multi-tenant Cloud & Deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1113672910,
+            "language": "TypeScript",
+            "last_commit": "2025-12-10T10:57:46Z",
+            "owner": "aws-samples",
+            "repo": "sample-agentcore-multi-tenant",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Research Agents Terraform",
+          "description": "Production-ready IaC for Deep Research Agents with Terraform, AWS Bedrock AgentCore, and LangFuse observability integration lemopian/deepagents-bedrock-agentcore-terraform Cloud & Deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1104731543,
+            "language": "Python",
+            "last_commit": "2025-12-04T07:20:47Z",
+            "owner": "lemopian",
+            "repo": "deepagents-bedrock-agentcore-terraform",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands CostGuard",
+          "description": "Cost control and attribution layer for LLM usage with runtime budget enforcement, OpenTelemetry metrics, per-tenant tracking, and policy-based spending controls wisemanIV/strands-costguard DevOps & Operations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1113059015,
+            "language": "Python",
+            "last_commit": "2025-12-10T18:49:01Z",
+            "owner": "wisemanIV",
+            "repo": "strands-costguard",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stock Assistant Agent",
+          "description": "Multi-agent financial analysis assistant with real-time web search and YFinance data integration, built with Streamlit UI pajaydev/stock-assistant-agent Research & Analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1001877393,
+            "language": "Python",
+            "last_commit": "2025-07-24T07:27:18Z",
+            "owner": "pajaydev",
+            "repo": "stock-assistant-agent",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS CloudTrail Security Agent",
+          "description": "Automated threat detection and compliance monitoring agent for AWS CloudTrail with AgentCore runtime support Tarique-B-DevOps/AWS-CloudTrail-Security-AI-Agent Security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1069563426,
+            "language": "Python",
+            "last_commit": "2026-01-15T13:05:46Z",
+            "owner": "Tarique-B",
+            "repo": "AWS-CloudTrail-Security-AI-Agent",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent SOP",
+          "description": "Natural language workflows (SOPs) for AI agents with MCP integration, Anthropic Skills compatibility, Cursor IDE support, and 5 production-ready SOPs strands-agents/agent-sop Official Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1089883859,
+            "language": "Python",
+            "last_commit": "2026-08-07T18:05:03Z",
+            "owner": "strands-agents",
+            "repo": "agent-sop",
+            "stars": 1134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript SDK",
+          "description": "Official TypeScript SDK for Strands Agents with full feature parity to Python SDK for Node.js and browser environments strands-agents/sdk-typescript Official Resources",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1059784055,
+            "language": "TypeScript",
+            "last_commit": "2026-06-03T00:24:32Z",
+            "owner": "strands-agents",
+            "repo": "sdk-typescript",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Documentation Source",
+          "description": "Official documentation source repository powering strandsagents.com with community contribution support strands-agents/docs Official Resources",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 983716936,
+            "language": "MDX",
+            "last_commit": "2026-06-02T21:25:11Z",
+            "owner": "strands-agents",
+            "repo": "docs",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evals Framework",
+          "description": "Comprehensive evaluation framework for agent testing, performance measurement, and quality assurance strands-agents/evals Official Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1029970068,
+            "language": "Python",
+            "last_commit": "2026-08-21T16:32:44Z",
+            "owner": "strands-agents",
+            "repo": "evals",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevTools",
+          "description": "Common GitHub workflows, actions, and shared tooling used across the Strands Agents organization for CI/CD and development automation strands-agents/devtools Official Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1134333563,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:07:48Z",
+            "owner": "strands-agents",
+            "repo": "devtools",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentCore Push",
+          "description": "Tiny CLI for pushing a single Python Strands Agent file to Amazon Bedrock AgentCore Runtime minorun365/agentcore-push Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1238883557,
+            "language": "Python",
+            "last_commit": "2026-05-14T15:46:34Z",
+            "owner": "minorun365",
+            "repo": "agentcore-push",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentCore RL Toolkit",
+          "description": "Toolkit for seamlessly enabling RL training on any agent with Bedrock AgentCore awslabs/agentcore-rl-toolkit Reinforcement Learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1113381446,
+            "language": "Python",
+            "last_commit": "2026-08-21T21:46:18Z",
+            "owner": "awslabs",
+            "repo": "agentcore-rl-toolkit",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bedrock AgentCore SDK",
+          "description": "Official Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure aws/bedrock-agentcore-sdk-python Official Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1015684263,
+            "language": "Python",
+            "last_commit": "2026-08-20T16:14:13Z",
+            "owner": "aws",
+            "repo": "bedrock-agentcore-sdk-python",
+            "stars": 755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HiddenLayer Strands",
+          "description": "Official HiddenLayer AWS Strands integration for AI security and threat detection hiddenlayerai/hiddenlayer-strands Security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1090458757,
+            "language": "Python",
+            "last_commit": "2026-04-01T18:11:47Z",
+            "owner": "hiddenlayerai",
+            "repo": "hiddenlayer-strands-guardrails",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM TraceKit Strands",
+          "description": "OpenTelemetry instrumentation for Strands Agents SDK by Coralogix coralogix/llm-tracekit Observability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 957411509,
+            "language": "Python",
+            "last_commit": "2026-07-07T12:10:57Z",
+            "owner": "coralogix",
+            "repo": "llm-tracekit",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NVIDIA NeMo Agent Toolkit (Strands)",
+          "description": "Subpackage for AWS Strands integration in NVIDIA NeMo Agent Toolkit — open-source library for efficiently connecting and optimizing teams of AI agents NVIDIA/NeMo-Agent-Toolkit Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 944039567,
+            "language": "Python",
+            "last_commit": "2026-08-23T22:59:02Z",
+            "owner": "NVIDIA",
+            "repo": "NeMo-Agent-Toolkit",
+            "stars": 2600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StitchLab AgentCore",
+          "description": "StitchLab agent core application built on AgentCore eva-zuliya/stitchlab-agentcore Enterprise Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1120496048,
+            "language": "Python",
+            "last_commit": "2026-05-12T14:34:04Z",
+            "owner": "eva-zuliya",
+            "repo": "stitchlab-agentcore",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands ADB",
+          "description": "@tool-decorated Android control for Strands Agents — give your agent a phone via ADB cagataycali/strands-adb Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1222101300,
+            "language": "Python",
+            "last_commit": "2026-07-23T03:51:06Z",
+            "owner": "cagataycali",
+            "repo": "strands-adb",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strands-ios",
+          "description": "@tool-decorated iOS device control for Strands Agents — give your agent an iPhone. Drive any USB-connected iPhone/iPad from an LLM: read syslog, launch apps, take screenshots, simulate location, drive UI via WebDriverAgent, pull crash logs, and capture pcap. Backed by pymobiledevice3; exposable over MCP. cagataycali/strands-ios Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1222230593,
+            "language": "Python",
+            "last_commit": "2026-07-27T19:19:30Z",
+            "owner": "cagataycali",
+            "repo": "strands-ios",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Agents Builder",
+          "description": "Example Strands agent demonstrating streaming, tool use, and interactivity from your terminal. The agent builder helps you build your own agents and tools strands-agents/agent-builder Official Resources",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 983717795,
+            "language": "Python",
+            "last_commit": "2026-05-12T21:36:18Z",
+            "owner": "strands-agents",
+            "repo": "agent-builder",
+            "stars": 426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Agents MCP Server (Official)",
+          "description": "Official MCP server providing knowledge about building AI agents with Strands Agents — use your favorite AI coding assistant to vibe-code Strands Agents strands-agents/mcp-server Official Resources",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 983719468,
+            "language": "Python",
+            "last_commit": "2026-07-27T17:35:59Z",
+            "owner": "strands-agents",
+            "repo": "mcp-server",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Arise",
+          "description": "Self-evolving tool synthesis for Strands Agents — agents that create their own tools abekek/strands-arise Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1192299801,
+            "language": "Python",
+            "last_commit": "2026-03-29T01:14:00Z",
+            "owner": "abekek",
+            "repo": "strands-arise",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Code Agent",
+          "description": "Coding agent built on Strands Agents SDK that replaces tool-calling paradigm with code generation as the primary action interface aws-samples/sample-strands-code-agent Developer Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1238548881,
+            "language": "Python",
+            "last_commit": "2026-08-17T16:27:31Z",
+            "owner": "aws-samples",
+            "repo": "sample-strands-code-agent",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Compose AgentCore",
+          "description": "Bedrock AgentCore deployment adapter for strands-compose — declarative multi-agent workflows on AWS strands-compose/bedrock-agentcore Cloud & Deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1208880548,
+            "language": "Python",
+            "last_commit": "2026-08-15T23:08:06Z",
+            "owner": "strands-compose",
+            "repo": "bedrock-agentcore",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands OSMO",
+          "description": "NVIDIA OSMO workflow orchestration for Strands Agents — submit, monitor, and debug Physical AI pipelines from natural language cagataycali/strands-osmo Robotics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1239095956,
+            "language": "Python",
+            "last_commit": "2026-07-23T17:16:12Z",
+            "owner": "cagataycali",
+            "repo": "strands-osmo",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Pack",
+          "description": "Custom tool library for Strands Agents labeveryday/strands-pack Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1082901693,
+            "language": "Python",
+            "last_commit": "2026-03-09T16:55:55Z",
+            "owner": "labeveryday",
+            "repo": "strands-pack",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Perplexity",
+          "description": "Perplexity Search API tool for Strands Agents — enables real-time web search with citations mkmeral/strands-perplexity Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1142744356,
+            "language": "Python",
+            "last_commit": "2026-01-26T20:49:31Z",
+            "owner": "mkmeral",
+            "repo": "strands-perplexity",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands PostgreSQL Session Manager",
+          "description": "PostgreSQL session manager for Strands Agents SDK with full ACID guarantees macuartin/strands-postgresql-session-manager Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1108522255,
+            "language": "Python",
+            "last_commit": "2025-12-02T16:38:50Z",
+            "owner": "macuartin",
+            "repo": "strands-postgresql-session-manager",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Sapiens",
+          "description": "Strands @tool wrappers for Meta Sapiens2 — high-res human-centric vision (segmentation, normal, pose, pointmap, pretrain backbone). Give your agent a body cagataycali/strands-sapiens Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1220330600,
+            "language": "Python",
+            "last_commit": "2026-07-23T17:15:52Z",
+            "owner": "cagataycali",
+            "repo": "strands-sapiens",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands SQL",
+          "description": "General-purpose SQL tool for Strands Agents — supports PostgreSQL, MySQL, and SQLite via SQLAlchemy NithiN-1808/strands-sql Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1205885676,
+            "language": "Python",
+            "last_commit": "2026-04-10T04:05:47Z",
+            "owner": "NithiN-1808",
+            "repo": "strands-sql",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Swarms",
+          "description": "Multi-agent swarm orchestration patterns for Strands Agents JackXu0/strands-swarms Multi-Agent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1144811613,
+            "language": "Python",
+            "last_commit": "2026-02-04T02:26:42Z",
+            "owner": "JackXu0",
+            "repo": "strands-swarms",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Token Telemetry",
+          "description": "Token usage telemetry and tracking for Strands Agents flockcover/strands-token-telemetry Observability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1162726703,
+            "language": "Python",
+            "last_commit": "2026-02-20T17:13:31Z",
+            "owner": "flockcover",
+            "repo": "strands-token-telemetry",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands UTCP",
+          "description": "Universal Tool Calling Protocol (UTCP) integration for Strands Agents universal-tool-calling-protocol/strands-utcp MCP/Protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1071401163,
+            "language": "Python",
+            "last_commit": "2026-01-08T09:29:46Z",
+            "owner": "universal-tool-calling-protocol",
+            "repo": "strands-utcp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands Valkey Session Manager",
+          "description": "Valkey/Redis-based session manager for Strands Agents SDK jeromevdl/strands-valkey-session-manager Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1077601848,
+            "language": "Python",
+            "last_commit": "2025-12-15T14:31:02Z",
+            "owner": "jeromevdl",
+            "repo": "strands-valkey-session-manager",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strands vLLM",
+          "description": "vLLM model provider for Strands Agents enabling high-throughput local LLM inference agents-community/strands-vllm Model Providers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1130223684,
+            "language": "Python",
+            "last_commit": "2026-01-23T06:11:39Z",
+            "owner": "agents-community",
+            "repo": "strands-vllm",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supabase Strands Session Manager",
+          "description": "Supabase-backed session manager for Strands Agents SDK siddharthkrish/strands-supabase-session-manager Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1153194738,
+            "language": "Python",
+            "last_commit": "2026-05-21T09:36:11Z",
+            "owner": "siddharthkrish",
+            "repo": "strands-supabase-session-manager",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Valyu AgentCore (PyPI)",
+          "description": "Valyu search tools published on PyPI for AWS Bedrock AgentCore and Strands Agents valyu-network/valyu-agentcore Tools & Integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1109477736,
+            "language": "Python",
+            "last_commit": "2026-04-09T14:33:46Z",
+            "owner": "valyuAI",
+            "repo": "valyu-agentcore",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Community Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Python SDK",
           "description": "Core SDK",
           "children": [],
@@ -15,7 +2466,7 @@
             "last_commit": "2026-08-24T07:56:09Z",
             "owner": "strands-agents",
             "repo": "harness-sdk",
-            "stars": 6990
+            "stars": 6992
           }
         },
         {
@@ -27,7 +2478,7 @@
             "archived": false,
             "id": 983716118,
             "language": "Python",
-            "last_commit": "2026-08-20T13:43:31Z",
+            "last_commit": "2026-08-24T13:57:42Z",
             "owner": "strands-agents",
             "repo": "tools",
             "stars": 1156
@@ -53,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:32:08.508Z",
+    "last_updated": "2026-08-24T14:49:58.429Z",
     "original_repository": "cagataycali/awesome-strands-agents",
     "original_repository_id": 992710242,
     "original_repository_sha": "1e7ad607dd53f2593cca8b25d42bbfd9cf9e7bfd",
