@@ -507,10 +507,10 @@
             "archived": false,
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-25T03:35:02Z",
+            "last_commit": "2026-08-25T08:53:02Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21058
+            "stars": 21065
           }
         },
         {
@@ -522,10 +522,10 @@
             "archived": false,
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-25T03:35:02Z",
+            "last_commit": "2026-08-25T08:53:02Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21058
+            "stars": 21065
           }
         },
         {
@@ -2130,7 +2130,7 @@
             "last_commit": "2026-08-23T22:59:02Z",
             "owner": "NVIDIA",
             "repo": "NeMo-Agent-Toolkit",
-            "stars": 2601
+            "stars": 2600
           }
         },
         {
@@ -2463,10 +2463,10 @@
             "archived": false,
             "id": 983715534,
             "language": "Python",
-            "last_commit": "2026-08-24T21:16:12Z",
+            "last_commit": "2026-08-25T07:58:57Z",
             "owner": "strands-agents",
             "repo": "harness-sdk",
-            "stars": 6994
+            "stars": 6998
           }
         },
         {
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:41:26.399Z",
+    "last_updated": "2026-08-25T09:21:59.569Z",
     "original_repository": "cagataycali/awesome-strands-agents",
     "original_repository_id": 992710242,
     "original_repository_sha": "1e7ad607dd53f2593cca8b25d42bbfd9cf9e7bfd",
