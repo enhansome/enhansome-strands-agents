@@ -192,7 +192,7 @@
             "archived": false,
             "id": 901565223,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:13:03Z",
+            "last_commit": "2026-08-25T01:39:48Z",
             "owner": "awslabs",
             "repo": "nx-plugin-for-aws",
             "stars": 94
@@ -447,7 +447,7 @@
             "archived": false,
             "id": 1154860308,
             "language": "Python",
-            "last_commit": "2026-08-18T17:04:57Z",
+            "last_commit": "2026-08-25T06:01:16Z",
             "owner": "strands-labs",
             "repo": "ai-functions",
             "stars": 305
@@ -507,10 +507,10 @@
             "archived": false,
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-24T14:37:09Z",
+            "last_commit": "2026-08-25T03:35:02Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21022
+            "stars": 21058
           }
         },
         {
@@ -522,10 +522,10 @@
             "archived": false,
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-24T14:37:09Z",
+            "last_commit": "2026-08-25T03:35:02Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21022
+            "stars": 21058
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-07T14:22:18Z",
             "owner": "aws-samples",
             "repo": "sample-agentic-chatbot-accelerator",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -822,7 +822,7 @@
             "archived": false,
             "id": 1037029275,
             "language": "Python",
-            "last_commit": "2026-08-20T06:41:58Z",
+            "last_commit": "2026-08-25T05:15:31Z",
             "owner": "aws-samples",
             "repo": "sample-strands-agent-with-agentcore",
             "stars": 190
@@ -1110,7 +1110,7 @@
             "last_commit": "2026-06-05T21:55:57Z",
             "owner": "aws-samples",
             "repo": "sample-getting-started-with-strands-agents-course",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -1242,7 +1242,7 @@
             "archived": false,
             "id": 901565223,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:13:03Z",
+            "last_commit": "2026-08-25T01:39:48Z",
             "owner": "awslabs",
             "repo": "nx-plugin-for-aws",
             "stars": 94
@@ -1530,7 +1530,7 @@
             "last_commit": "2026-06-18T10:53:17Z",
             "owner": "aws-samples",
             "repo": "sample-agentic-platform",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -1542,10 +1542,10 @@
             "archived": false,
             "id": 961856693,
             "language": "Python",
-            "last_commit": "2026-08-04T10:38:26Z",
+            "last_commit": "2026-08-24T16:18:51Z",
             "owner": "omerbsezer",
             "repo": "Fast-LLM-Agent-MCP",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -2025,7 +2025,7 @@
             "last_commit": "2026-08-21T16:32:44Z",
             "owner": "strands-agents",
             "repo": "evals",
-            "stars": 182
+            "stars": 184
           }
         },
         {
@@ -2067,7 +2067,7 @@
             "archived": false,
             "id": 1113381446,
             "language": "Python",
-            "last_commit": "2026-08-21T21:46:18Z",
+            "last_commit": "2026-08-25T00:51:33Z",
             "owner": "awslabs",
             "repo": "agentcore-rl-toolkit",
             "stars": 52
@@ -2082,7 +2082,7 @@
             "archived": false,
             "id": 1015684263,
             "language": "Python",
-            "last_commit": "2026-08-20T16:14:13Z",
+            "last_commit": "2026-08-25T00:28:34Z",
             "owner": "aws",
             "repo": "bedrock-agentcore-sdk-python",
             "stars": 755
@@ -2130,7 +2130,7 @@
             "last_commit": "2026-08-23T22:59:02Z",
             "owner": "NVIDIA",
             "repo": "NeMo-Agent-Toolkit",
-            "stars": 2600
+            "stars": 2601
           }
         },
         {
@@ -2463,10 +2463,10 @@
             "archived": false,
             "id": 983715534,
             "language": "Python",
-            "last_commit": "2026-08-24T07:56:09Z",
+            "last_commit": "2026-08-24T21:16:12Z",
             "owner": "strands-agents",
             "repo": "harness-sdk",
-            "stars": 6992
+            "stars": 6994
           }
         },
         {
@@ -2478,7 +2478,7 @@
             "archived": false,
             "id": 983716118,
             "language": "Python",
-            "last_commit": "2026-08-24T13:57:42Z",
+            "last_commit": "2026-08-24T20:12:11Z",
             "owner": "strands-agents",
             "repo": "tools",
             "stars": 1156
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:49:58.429Z",
+    "last_updated": "2026-08-25T06:41:26.399Z",
     "original_repository": "cagataycali/awesome-strands-agents",
     "original_repository_id": 992710242,
     "original_repository_sha": "1e7ad607dd53f2593cca8b25d42bbfd9cf9e7bfd",
