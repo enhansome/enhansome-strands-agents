@@ -192,7 +192,7 @@
             "archived": false,
             "id": 901565223,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:39:48Z",
+            "last_commit": "2026-08-26T08:09:42Z",
             "owner": "awslabs",
             "repo": "nx-plugin-for-aws",
             "stars": 94
@@ -450,7 +450,7 @@
             "last_commit": "2026-08-25T06:01:16Z",
             "owner": "strands-labs",
             "repo": "ai-functions",
-            "stars": 305
+            "stars": 306
           }
         },
         {
@@ -507,10 +507,10 @@
             "archived": false,
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-25T08:53:02Z",
+            "last_commit": "2026-08-26T09:11:56Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21065
+            "stars": 21160
           }
         },
         {
@@ -522,10 +522,10 @@
             "archived": false,
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-25T08:53:02Z",
+            "last_commit": "2026-08-26T09:11:56Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21065
+            "stars": 21160
           }
         },
         {
@@ -702,7 +702,7 @@
             "archived": false,
             "id": 1148963395,
             "language": "Python",
-            "last_commit": "2026-08-09T10:04:40Z",
+            "last_commit": "2026-08-25T15:03:05Z",
             "owner": "aws-samples",
             "repo": "sample-badgers",
             "stars": 16
@@ -822,7 +822,7 @@
             "archived": false,
             "id": 1037029275,
             "language": "Python",
-            "last_commit": "2026-08-25T05:15:31Z",
+            "last_commit": "2026-08-25T23:40:45Z",
             "owner": "aws-samples",
             "repo": "sample-strands-agent-with-agentcore",
             "stars": 190
@@ -915,7 +915,7 @@
             "last_commit": "2026-04-22T15:50:29Z",
             "owner": "cagataycali",
             "repo": "strands-ucp",
-            "stars": 2
+            "stars": 3
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2026-06-05T21:55:57Z",
             "owner": "aws-samples",
             "repo": "sample-getting-started-with-strands-agents-course",
-            "stars": 103
+            "stars": 104
           }
         },
         {
@@ -1242,7 +1242,7 @@
             "archived": false,
             "id": 901565223,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:39:48Z",
+            "last_commit": "2026-08-26T08:09:42Z",
             "owner": "awslabs",
             "repo": "nx-plugin-for-aws",
             "stars": 94
@@ -1530,7 +1530,7 @@
             "last_commit": "2026-06-18T10:53:17Z",
             "owner": "aws-samples",
             "repo": "sample-agentic-platform",
-            "stars": 125
+            "stars": 126
           }
         },
         {
@@ -2022,7 +2022,7 @@
             "archived": false,
             "id": 1029970068,
             "language": "Python",
-            "last_commit": "2026-08-21T16:32:44Z",
+            "last_commit": "2026-08-25T19:55:51Z",
             "owner": "strands-agents",
             "repo": "evals",
             "stars": 184
@@ -2067,7 +2067,7 @@
             "archived": false,
             "id": 1113381446,
             "language": "Python",
-            "last_commit": "2026-08-25T00:51:33Z",
+            "last_commit": "2026-08-25T22:57:02Z",
             "owner": "awslabs",
             "repo": "agentcore-rl-toolkit",
             "stars": 52
@@ -2082,7 +2082,7 @@
             "archived": false,
             "id": 1015684263,
             "language": "Python",
-            "last_commit": "2026-08-25T00:28:34Z",
+            "last_commit": "2026-08-25T15:05:26Z",
             "owner": "aws",
             "repo": "bedrock-agentcore-sdk-python",
             "stars": 755
@@ -2130,7 +2130,7 @@
             "last_commit": "2026-08-23T22:59:02Z",
             "owner": "NVIDIA",
             "repo": "NeMo-Agent-Toolkit",
-            "stars": 2600
+            "stars": 2603
           }
         },
         {
@@ -2463,10 +2463,10 @@
             "archived": false,
             "id": 983715534,
             "language": "Python",
-            "last_commit": "2026-08-25T07:58:57Z",
+            "last_commit": "2026-08-26T08:00:10Z",
             "owner": "strands-agents",
             "repo": "harness-sdk",
-            "stars": 6998
+            "stars": 7010
           }
         },
         {
@@ -2478,10 +2478,10 @@
             "archived": false,
             "id": 983716118,
             "language": "Python",
-            "last_commit": "2026-08-24T20:12:11Z",
+            "last_commit": "2026-08-25T14:56:52Z",
             "owner": "strands-agents",
             "repo": "tools",
-            "stars": 1156
+            "stars": 1159
           }
         },
         {
@@ -2496,7 +2496,7 @@
             "last_commit": "2026-08-12T20:54:28Z",
             "owner": "strands-agents",
             "repo": "samples",
-            "stars": 833
+            "stars": 834
           }
         }
       ],
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:21:59.569Z",
+    "last_updated": "2026-08-26T09:26:58.066Z",
     "original_repository": "cagataycali/awesome-strands-agents",
     "original_repository_id": 992710242,
     "original_repository_sha": "1e7ad607dd53f2593cca8b25d42bbfd9cf9e7bfd",
