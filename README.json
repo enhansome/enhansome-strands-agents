@@ -16,7 +16,8 @@
             "owner": "cagataycali",
             "repo": "strands-bitchat",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "thiago4go",
             "repo": "strands-nvidia-nim",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "aidendef",
             "repo": "strands-clova",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "cagataycali",
             "repo": "strands-mlx",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "aaronsu11",
             "repo": "Dum-E",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "cagataycali",
             "repo": "strands-robots",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "hashtagemy",
             "repo": "strands-locate-anything",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "cagataycali",
             "repo": "strands-spot",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mkmeral",
             "repo": "strands-live",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "cagataycali",
             "repo": "strands-omnivoice",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "imgaray",
             "repo": "strands-agents-mcp",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "cagataycali",
             "repo": "strands-mcp-server",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -192,11 +204,12 @@
             "archived": false,
             "id": 901565223,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:01:16Z",
+            "last_commit": "2026-08-28T16:03:28Z",
             "owner": "awslabs",
             "repo": "nx-plugin-for-aws",
-            "stars": 94
-          }
+            "stars": 95
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "xiehust",
             "repo": "strands_studio_ui",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "awslabs",
             "repo": "agent-dev-toolkit",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "cagataycali",
             "repo": "devduck",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "cagataycali",
             "repo": "strands-coder",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "mkmeral",
             "repo": "containerized-strands-agents",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "cagataycali",
             "repo": "strands-research-agent",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "cagataycali",
             "repo": "strands-agentcore-tools",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "mertozbas",
             "repo": "strands-ccxt",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "cagataycali",
             "repo": "strands-cosmos",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "cagataycali",
             "repo": "strands-microgpt",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "strands-rl",
             "repo": "strands-sglang",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "amazon-nova-api",
             "repo": "strands-nova",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "cagataycali",
             "repo": "strands-strudel",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "cagataycali",
             "repo": "strands-inspect",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -417,11 +444,12 @@
             "archived": false,
             "id": 1145773363,
             "language": "Python",
-            "last_commit": "2026-08-27T19:16:34Z",
+            "last_commit": "2026-08-27T22:27:48Z",
             "owner": "strands-rl",
             "repo": "strands-env",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "mikegc-aws",
             "repo": "async-agentic-tools",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -447,11 +476,12 @@
             "archived": false,
             "id": 1154860308,
             "language": "Python",
-            "last_commit": "2026-08-26T17:34:59Z",
+            "last_commit": "2026-08-28T00:11:38Z",
             "owner": "strands-labs",
             "repo": "ai-functions",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -466,7 +496,8 @@
             "owner": "strands-labs",
             "repo": "robots-sim",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -481,7 +512,8 @@
             "owner": "strands-compose",
             "repo": "sdk-python",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -496,7 +528,8 @@
             "owner": "lemopian",
             "repo": "strands-deep-agents",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -507,11 +540,12 @@
             "archived": false,
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-27T16:37:09Z",
+            "last_commit": "2026-08-28T18:58:46Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21527
-          }
+            "stars": 21599
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -522,11 +556,12 @@
             "archived": false,
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-27T16:37:09Z",
+            "last_commit": "2026-08-28T18:58:46Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21527
-          }
+            "stars": 21599
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -541,7 +576,8 @@
             "owner": "lekhnath",
             "repo": "strands-redis-session-manager",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -556,7 +592,8 @@
             "owner": "deeheber",
             "repo": "strands-agent-template",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -571,7 +608,8 @@
             "owner": "tverney",
             "repo": "create-strands-agent",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -586,7 +624,8 @@
             "owner": "deeheber",
             "repo": "job-search-agent",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -601,7 +640,8 @@
             "owner": "jztan",
             "repo": "blueclaw",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -616,7 +656,8 @@
             "owner": "Vivek0712",
             "repo": "clawskills-strands",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -631,7 +672,8 @@
             "owner": "Moonlight-CL",
             "repo": "AgentX",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -646,7 +688,8 @@
             "owner": "valyuAI",
             "repo": "valyu-agentcore",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -661,7 +704,8 @@
             "owner": "elizabethfuentes12",
             "repo": "meta-ai-agent-sample-for-aws-agentcore",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -676,7 +720,8 @@
             "owner": "peitaosu",
             "repo": "strands-rs",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -691,7 +736,8 @@
             "owner": "aws-samples",
             "repo": "sample-agentic-chatbot-accelerator",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -706,7 +752,8 @@
             "owner": "aws-samples",
             "repo": "sample-badgers",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -721,7 +768,8 @@
             "owner": "aws-samples",
             "repo": "sample-nova-sonic-websocket-agentcore",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -736,7 +784,8 @@
             "owner": "aws-samples",
             "repo": "sample-nova-sonic-speech2speech-webrtc",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -751,7 +800,8 @@
             "owner": "aws-samples",
             "repo": "sample-strands-chaos-engineering-agents",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -766,7 +816,8 @@
             "owner": "aws-samples",
             "repo": "sample-why-agents-fail",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -781,7 +832,8 @@
             "owner": "aws-samples",
             "repo": "sample-agentcore-rai-strands-agents",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -796,7 +848,8 @@
             "owner": "aws-samples",
             "repo": "sample-aws-idp-pipeline",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -811,7 +864,8 @@
             "owner": "temporal-community",
             "repo": "bedrock-agents-mcp-workshop",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -826,7 +880,8 @@
             "owner": "aws-samples",
             "repo": "sample-strands-agent-with-agentcore",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -841,7 +896,8 @@
             "owner": "aintoniodev",
             "repo": "JUANAN",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -856,7 +912,8 @@
             "owner": "Anya2089",
             "repo": "Airline-booking-demo-strandsagent-agentcore-ver2.0-withsolutionmanager",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -871,7 +928,8 @@
             "owner": "cagataycali",
             "repo": "strands-fun-tools",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -886,7 +944,8 @@
             "owner": "eraykeskinmac",
             "repo": "strands-tools-community",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -901,7 +960,8 @@
             "owner": "eraykeskinmac",
             "repo": "strands-tools-examples",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -916,7 +976,8 @@
             "owner": "cagataycali",
             "repo": "strands-ucp",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -931,7 +992,8 @@
             "owner": "eraykeskinmac",
             "repo": "strands-telegram",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1008,8 @@
             "owner": "eraykeskinmac",
             "repo": "strands-telegram-listener",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1024,8 @@
             "owner": "cagataycali",
             "repo": "strands-google",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -976,7 +1040,8 @@
             "owner": "cagataycali",
             "repo": "strands-rendercv",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1056,8 @@
             "owner": "cagataycali",
             "repo": "strands-transformers",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1072,8 @@
             "owner": "cagataycali",
             "repo": "strands-diffusers",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1021,7 +1088,8 @@
             "owner": "cagataycali",
             "repo": "strands-cad",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1104,8 @@
             "owner": "cagataycali",
             "repo": "strands-icloud",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1120,8 @@
             "owner": "aws-samples",
             "repo": "sample-Advanced-Strands-Agents-with-MCP",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1066,7 +1136,8 @@
             "owner": "Tarique-B",
             "repo": "Agentic-Kubernetes-Management",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1152,8 @@
             "owner": "awsdataarchitect",
             "repo": "bedrock-dining-agent",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1096,7 +1168,8 @@
             "owner": "aws-samples",
             "repo": "sample-fraud-investigation-assistance-using-aws-bedrock-strandsagents-mcp",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1110,8 +1183,9 @@
             "last_commit": "2026-06-05T21:55:57Z",
             "owner": "aws-samples",
             "repo": "sample-getting-started-with-strands-agents-course",
-            "stars": 105
-          }
+            "stars": 106
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1126,7 +1200,8 @@
             "owner": "mohsinsheikhani",
             "repo": "multi-agent-hotel-assistant",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1141,7 +1216,8 @@
             "owner": "elizabethfuentes12",
             "repo": "strands-agent-samples",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1232,8 @@
             "owner": "aws-samples",
             "repo": "sample-strands-agents-chat",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1171,7 +1248,8 @@
             "owner": "aws-samples",
             "repo": "sample-agentic-form-filling",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1186,7 +1264,8 @@
             "owner": "LondheShubham153",
             "repo": "strands-agents-workshop",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1201,7 +1280,8 @@
             "owner": "didier-durand",
             "repo": "strands-serverless",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1216,7 +1296,8 @@
             "owner": "callraV",
             "repo": "strands-agents-ticket-router",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1231,7 +1312,8 @@
             "owner": "myat555",
             "repo": "WildfireNowcast",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1242,11 +1324,12 @@
             "archived": false,
             "id": 901565223,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:01:16Z",
+            "last_commit": "2026-08-28T16:03:28Z",
             "owner": "awslabs",
             "repo": "nx-plugin-for-aws",
-            "stars": 94
-          }
+            "stars": 95
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1261,7 +1344,8 @@
             "owner": "danilop",
             "repo": "strands-agents-semantic-summarizing-conversation-manager",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1276,7 +1360,8 @@
             "owner": "LondheShubham153",
             "repo": "strands-temporal-agents",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1291,7 +1376,8 @@
             "owner": "danilop",
             "repo": "strands-a2a-demo",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1306,7 +1392,8 @@
             "owner": "aws-samples",
             "repo": "sample-multimodal-agent-tutorial",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1321,7 +1408,8 @@
             "owner": "awslabs",
             "repo": "mcp-server-for-oscal",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1336,7 +1424,8 @@
             "owner": "danilop",
             "repo": "ai-doc-read-studio",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1351,7 +1440,8 @@
             "owner": "aws-samples",
             "repo": "sample-strands-agents-agentskills",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1366,7 +1456,8 @@
             "owner": "aws-samples",
             "repo": "sample-strands-agentcore-starter",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1377,11 +1468,12 @@
             "archived": false,
             "id": 1055730295,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:08:20Z",
+            "last_commit": "2026-08-27T21:31:48Z",
             "owner": "aws-solutions-library-samples",
             "repo": "guidance-for-advertising-agents-on-aws",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1396,7 +1488,8 @@
             "owner": "aws-samples",
             "repo": "sample-agentic-cost-optimizer",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1411,7 +1504,8 @@
             "owner": "aws-samples",
             "repo": "sample-aws-health-agentic-assistant",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1426,7 +1520,8 @@
             "owner": "anespo",
             "repo": "opik-mcp-server",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1536,8 @@
             "owner": "okahu-demos",
             "repo": "aws-strands-agentcore",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1456,7 +1552,8 @@
             "owner": "cagataycali",
             "repo": "strands-erc8004",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1471,7 +1568,8 @@
             "owner": "cagataycali",
             "repo": "strands-hackerone",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1486,7 +1584,8 @@
             "owner": "aws-samples",
             "repo": "sample-agentic-frameworks-on-aws",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1501,7 +1600,8 @@
             "owner": "aws-samples",
             "repo": "serverless-rag-demo",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1616,8 @@
             "owner": "1844909740",
             "repo": "mutli-agents",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1530,8 +1631,9 @@
             "last_commit": "2026-06-18T10:53:17Z",
             "owner": "aws-samples",
             "repo": "sample-agentic-platform",
-            "stars": 127
-          }
+            "stars": 128
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1546,7 +1648,8 @@
             "owner": "omerbsezer",
             "repo": "Fast-LLM-Agent-MCP",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1561,7 +1664,8 @@
             "owner": "kyopark2014",
             "repo": "strands-agent",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1576,7 +1680,8 @@
             "owner": "awsdataarchitect",
             "repo": "cloudeng-strands-agent",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1591,7 +1696,8 @@
             "owner": "davidshtian",
             "repo": "Learning-Strands-Agents",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1606,7 +1712,8 @@
             "owner": "Anya2089",
             "repo": "exam_generator_strands",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1621,7 +1728,8 @@
             "owner": "aws-samples",
             "repo": "sample-build-a-life-science-research-assistant-using-strands-agents",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1636,7 +1744,8 @@
             "owner": "GSA-TTS",
             "repo": "devCrew_s1",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1651,7 +1760,8 @@
             "owner": "accuknox",
             "repo": "agentic-ai-strands",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1666,7 +1776,8 @@
             "owner": "4l3j4ndr0",
             "repo": "strands-agents-ecosystem",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1681,7 +1792,8 @@
             "owner": "jief123",
             "repo": "strands-web-ui",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1696,7 +1808,8 @@
             "owner": "afarntrog",
             "repo": "strands-sqlite-session-manager",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1711,7 +1824,8 @@
             "owner": "afarntrog",
             "repo": "strands-agents-extensions",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1726,7 +1840,8 @@
             "owner": "danilop",
             "repo": "agentcore-multi-framework-examples",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1741,7 +1856,8 @@
             "owner": "cagataycali",
             "repo": "strands-re-invent",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1756,7 +1872,8 @@
             "owner": "aws-samples",
             "repo": "sample-for-amazon-bda-agents",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1771,7 +1888,8 @@
             "owner": "aws-samples",
             "repo": "sample-logistics-agent-agentcore-runtime",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1786,7 +1904,8 @@
             "owner": "aws-samples",
             "repo": "sample-getting-started-with-amazon-agentcore",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1801,7 +1920,8 @@
             "owner": "CopilotKit",
             "repo": "strands-file-analyzer-demo",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1816,7 +1936,8 @@
             "owner": "DanielPuentee",
             "repo": "strands-agents-manim",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1831,7 +1952,8 @@
             "owner": "awsdataarchitect",
             "repo": "voice-cloning-agentcore",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1846,7 +1968,8 @@
             "owner": "darshitvvora",
             "repo": "temporal-agentic-loan-underwriter",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1861,7 +1984,8 @@
             "owner": "mertozbas",
             "repo": "strands-cloudflare",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1876,7 +2000,8 @@
             "owner": "mertozbas",
             "repo": "hashtrade",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1890,8 +2015,9 @@
             "last_commit": "2026-06-13T21:40:43Z",
             "owner": "Kos-M",
             "repo": "acg_protocol",
-            "stars": 16
-          }
+            "stars": 17
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1906,7 +2032,8 @@
             "owner": "aws-samples",
             "repo": "sample-agentcore-multi-tenant",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1921,7 +2048,8 @@
             "owner": "lemopian",
             "repo": "deepagents-bedrock-agentcore-terraform",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1936,7 +2064,8 @@
             "owner": "wisemanIV",
             "repo": "strands-costguard",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1951,7 +2080,8 @@
             "owner": "pajaydev",
             "repo": "stock-assistant-agent",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1966,7 +2096,8 @@
             "owner": "Tarique-B",
             "repo": "AWS-CloudTrail-Security-AI-Agent",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1980,8 +2111,9 @@
             "last_commit": "2026-08-07T18:05:03Z",
             "owner": "strands-agents",
             "repo": "agent-sop",
-            "stars": 1134
-          }
+            "stars": 1135
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -1996,7 +2128,8 @@
             "owner": "strands-agents",
             "repo": "sdk-typescript",
             "stars": 693
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2011,7 +2144,8 @@
             "owner": "strands-agents",
             "repo": "docs",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2022,11 +2156,12 @@
             "archived": false,
             "id": 1029970068,
             "language": "Python",
-            "last_commit": "2026-08-27T16:30:19Z",
+            "last_commit": "2026-08-28T16:13:31Z",
             "owner": "strands-agents",
             "repo": "evals",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2041,7 +2176,8 @@
             "owner": "strands-agents",
             "repo": "devtools",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2056,7 +2192,8 @@
             "owner": "minorun365",
             "repo": "agentcore-push",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2071,7 +2208,8 @@
             "owner": "awslabs",
             "repo": "agentcore-rl-toolkit",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2086,7 +2224,8 @@
             "owner": "aws",
             "repo": "bedrock-agentcore-sdk-python",
             "stars": 755
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2101,7 +2240,8 @@
             "owner": "hiddenlayerai",
             "repo": "hiddenlayer-strands-guardrails",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2116,7 +2256,8 @@
             "owner": "coralogix",
             "repo": "llm-tracekit",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2127,11 +2268,12 @@
             "archived": false,
             "id": 944039567,
             "language": "Python",
-            "last_commit": "2026-08-27T17:03:00Z",
+            "last_commit": "2026-08-28T19:29:50Z",
             "owner": "NVIDIA",
             "repo": "NeMo-Agent-Toolkit",
-            "stars": 2604
-          }
+            "stars": 2605
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2146,7 +2288,8 @@
             "owner": "eva-zuliya",
             "repo": "stitchlab-agentcore",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2161,7 +2304,8 @@
             "owner": "cagataycali",
             "repo": "strands-adb",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2176,7 +2320,8 @@
             "owner": "cagataycali",
             "repo": "strands-ios",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2191,7 +2336,8 @@
             "owner": "strands-agents",
             "repo": "agent-builder",
             "stars": 426
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2206,7 +2352,8 @@
             "owner": "strands-agents",
             "repo": "mcp-server",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2221,7 +2368,8 @@
             "owner": "abekek",
             "repo": "strands-arise",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2236,7 +2384,8 @@
             "owner": "aws-samples",
             "repo": "sample-strands-code-agent",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2251,7 +2400,8 @@
             "owner": "strands-compose",
             "repo": "bedrock-agentcore",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2266,7 +2416,8 @@
             "owner": "cagataycali",
             "repo": "strands-osmo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2281,7 +2432,8 @@
             "owner": "labeveryday",
             "repo": "strands-pack",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2296,7 +2448,8 @@
             "owner": "mkmeral",
             "repo": "strands-perplexity",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2311,7 +2464,8 @@
             "owner": "macuartin",
             "repo": "strands-postgresql-session-manager",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2326,7 +2480,8 @@
             "owner": "cagataycali",
             "repo": "strands-sapiens",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2341,7 +2496,8 @@
             "owner": "NithiN-1808",
             "repo": "strands-sql",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2356,7 +2512,8 @@
             "owner": "JackXu0",
             "repo": "strands-swarms",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2371,7 +2528,8 @@
             "owner": "flockcover",
             "repo": "strands-token-telemetry",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2386,7 +2544,8 @@
             "owner": "universal-tool-calling-protocol",
             "repo": "strands-utcp",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2401,7 +2560,8 @@
             "owner": "jeromevdl",
             "repo": "strands-valkey-session-manager",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2416,7 +2576,8 @@
             "owner": "agents-community",
             "repo": "strands-vllm",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2431,7 +2592,8 @@
             "owner": "siddharthkrish",
             "repo": "strands-supabase-session-manager",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2446,7 +2608,8 @@
             "owner": "valyuAI",
             "repo": "valyu-agentcore",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         }
       ],
       "title": "Community Projects"
@@ -2463,11 +2626,12 @@
             "archived": false,
             "id": 983715534,
             "language": "Python",
-            "last_commit": "2026-08-27T18:44:45Z",
+            "last_commit": "2026-08-28T20:21:34Z",
             "owner": "strands-agents",
             "repo": "harness-sdk",
-            "stars": 7030
-          }
+            "stars": 7037
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2478,11 +2642,12 @@
             "archived": false,
             "id": 983716118,
             "language": "Python",
-            "last_commit": "2026-08-27T17:22:09Z",
+            "last_commit": "2026-08-28T14:48:52Z",
             "owner": "strands-agents",
             "repo": "tools",
             "stars": 1159
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         },
         {
           "node_type": "item",
@@ -2497,14 +2662,15 @@
             "owner": "strands-agents",
             "repo": "samples",
             "stars": 835
-          }
+          },
+          "first_seen": "2026-08-28T20:26:16.267Z"
         }
       ],
       "title": "Official Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:16:54.945Z",
+    "last_updated": "2026-08-28T20:26:16.267Z",
     "original_repository_info": {
       "archived": false,
       "id": 992710242,
@@ -2512,7 +2678,7 @@
       "last_commit": "2026-07-31T01:35:11Z",
       "owner": "cagataycali",
       "repo": "awesome-strands-agents",
-      "stars": 62
+      "stars": 63
     },
     "original_repository_sha": "1e7ad607dd53f2593cca8b25d42bbfd9cf9e7bfd",
     "enhanced_repository": "enhansome/enhansome-strands-agents",
