@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental: Strands Agents running on BitChat",
+            "homepage": null,
             "id": 1039851119,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-22T15:54:42Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-bitchat",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "agents",
+              "bluetooth",
+              "mesh",
+              "mesh-networks",
+              "p2p",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -26,12 +38,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1008045161,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-25T01:09:55Z",
+            "open_issues": 1,
             "owner": "thiago4go",
             "repo": "strands-nvidia-nim",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -42,12 +59,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1053850693,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-10T05:22:22Z",
+            "open_issues": 1,
             "owner": "aidendef",
             "repo": "strands-clova",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -58,12 +80,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental: MLX model provider for Strands Agents - Build, train, and deploy AI agents on Apple Silicon.",
+            "homepage": "https://strandsagents.com",
             "id": 1087240896,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-22T15:54:15Z",
+            "open_issues": 12,
             "owner": "cagataycali",
             "repo": "strands-mlx",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "agents",
+              "mlx",
+              "mlx-lm",
+              "mlx-vlm",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -74,12 +107,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspired by Tony Stark's robotic assistant Dum-E, the mission of this project is to create an intelligent, voice & vision enabled AI agent with robotic arm(s) capable of real-time human interaction, physical operations, and orchestration of a wide range of tools and services.",
+            "homepage": null,
             "id": 999595136,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-16T19:44:50Z",
+            "open_issues": 0,
             "owner": "aaronsu11",
             "repo": "Dum-E",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "gr00t",
+              "lerobot",
+              "pipecat-ai",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -90,12 +133,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Experimental: Robot Control for Strands Agents.",
+            "homepage": "https://strandsagents.com",
             "id": 1093810108,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-04T18:28:26Z",
+            "open_issues": 6,
             "owner": "cagataycali",
             "repo": "strands-robots",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "edge",
+              "gr00t",
+              "lerobot",
+              "nvidia",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -106,12 +160,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual grounding tools for Strands Agents and Strands Robots, powered by NVIDIA LocateAnything.",
+            "homepage": null,
             "id": 1317326306,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T17:35:07Z",
+            "open_issues": 0,
             "owner": "hashtagemy",
             "repo": "strands-locate-anything",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "nvidia-locateanything",
+              "robotics",
+              "strands-agents",
+              "strands-robots",
+              "visual-grounding"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -122,12 +187,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental: Boston Dynamics Spot Control for Strands Agents",
+            "homepage": "https://strandsagents.com",
             "id": 1121224077,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-22T15:51:46Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-spot",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -138,12 +210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Live speech-to-speech agent",
+            "homepage": null,
             "id": 1003822009,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-27T10:24:49Z",
+            "open_issues": 2,
             "owner": "mkmeral",
             "repo": "strands-live",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -154,12 +231,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://cagataycali.github.io/strands-omnivoice/",
             "id": 1240937184,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-16T21:30:45Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-omnivoice",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "strands-agents",
+              "text-to-speech",
+              "voice-cloning"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -170,12 +256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP server to execute agents through MCP",
+            "homepage": null,
             "id": 985524852,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-26T15:31:13Z",
+            "open_issues": 1,
             "owner": "imgaray",
             "repo": "strands-agents-mcp",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -186,12 +277,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental: Bidirectional MCP integration for Strands Agents.",
+            "homepage": "https://cagataycali.github.io/strands-mcp-server/",
             "id": 1093935881,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-15T23:00:46Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-mcp-server",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "mcp",
+              "mcp-client",
+              "mcp-clients",
+              "mcp-server",
+              "mcp-servers",
+              "strands-agents",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -202,12 +306,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
+            "homepage": "https://awslabs.github.io/nx-plugin-for-aws/",
             "id": 901565223,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T16:03:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:59:51Z",
+            "open_issues": 18,
             "owner": "awslabs",
             "repo": "nx-plugin-for-aws",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "cloudfront",
+              "cloudscape",
+              "fastapi",
+              "lambda",
+              "mcp",
+              "nx",
+              "productivity",
+              "python",
+              "react",
+              "tanstack",
+              "trpc",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -218,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1053533520,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-11T05:53:25Z",
+            "open_issues": 5,
             "owner": "xiehust",
             "repo": "strands_studio_ui",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -234,12 +363,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 1012741836,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-06T13:57:02Z",
+            "open_issues": 8,
             "owner": "awslabs",
             "repo": "agent-dev-toolkit",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -250,12 +384,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist AI agent that fixes itself when things break.",
+            "homepage": "https://dev.duck.nyc",
             "id": 1051851340,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-11T06:33:28Z",
+            "open_issues": 2,
             "owner": "cagataycali",
             "repo": "devduck",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "autonomous-agents",
+              "mcp",
+              "mcp-server",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -266,12 +410,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference implementation: Autonomous GitHub Agent for Strands Agents",
+            "homepage": "https://cagatay.my/blog/strands-coder-architecture/",
             "id": 1149303587,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-14T06:27:59Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-coder",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "autonomous-agents",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -282,12 +434,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an MCP server that hosts strands agents. The goal is to create containerized strands agents, so they can go accomplish tasks independently, without messing with the original workspace. This allows you to run multiple agents in parallel",
+            "homepage": null,
             "id": 1114762533,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-19T00:13:01Z",
+            "open_issues": 3,
             "owner": "mkmeral",
             "repo": "containerized-strands-agents",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "autonomous-agents",
+              "containers",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -298,12 +459,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fork of strands-agents/samples to share research agent sample",
+            "homepage": null,
             "id": 1059067551,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-22T15:50:14Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-research-agent",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "samples",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -314,12 +483,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agentic tools that enable AI agents to autonomously deploy, manage, and monitor themselves on AWS Bedrock AgentCore",
+            "homepage": "https://strandsagents.com",
             "id": 1082702796,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-22T15:50:54Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-agentcore-tools",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "agentcore",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -330,12 +507,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal CCXT tool for Strands Agents - trade on 100+ cryptocurrency exchanges.",
+            "homepage": null,
             "id": 1137104870,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-18T23:11:32Z",
+            "open_issues": 1,
             "owner": "mertozbas",
             "repo": "strands-ccxt",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ccxt",
+              "exchange",
+              "strands-agents",
+              "trade",
+              "trading"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -346,12 +534,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Give your AI agent eyes that understand physics.",
+            "homepage": "https://cagataycali.github.io/strands-cosmos/",
             "id": 1161556651,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-16T14:40:47Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-cosmos",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "cosmos",
+              "nvidia",
+              "physical-ai",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -362,12 +560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Karpathy's pure-Python microGPT as a Strands Agents model provider — zero dependencies, pure autograd, trained from scratch.",
+            "homepage": "https://cagataycali.github.io/strands-microgpt",
             "id": 1188580064,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-22T15:52:31Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-microgpt",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -378,12 +581,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SGLang model provider for Strands Agents.",
+            "homepage": null,
             "id": 1126036344,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T04:07:41Z",
+            "open_issues": 0,
             "owner": "strands-rl",
             "repo": "strands-sglang",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "agentic-rl",
+              "ai-agents",
+              "sglang",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -394,12 +607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amazon Nova API model provider for Strands Agents SDK",
+            "homepage": null,
             "id": 1099306247,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-02T19:26:48Z",
+            "open_issues": 2,
             "owner": "amazon-nova-api",
             "repo": "strands-nova",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -410,12 +628,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎵 Live coding music with AI - Strands Agents tool for real-time Strudel pattern generation and WebSocket playback",
+            "homepage": null,
             "id": 1147549165,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-22T15:51:10Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-strudel",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "algorithmic-music",
+              "generative-music",
+              "live-coding",
+              "music-generation",
+              "strands-agents",
+              "strudel",
+              "tidalcycles"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -426,12 +657,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 X-ray vision for Python — scan packages, profile code, sandbox functions. One tool.",
+            "homepage": "https://cagataycali.github.io/strands-inspect/",
             "id": 1170533486,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-23T17:16:16Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-inspect",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -442,12 +678,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A unified framework for building agentic RL environments.",
+            "homepage": null,
             "id": 1145773363,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:27:48Z",
+            "open_issues": 0,
             "owner": "strands-rl",
             "repo": "strands-env",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "agent-environments",
+              "agentic-rl",
+              "ai-agents",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -458,12 +704,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "True async agentic tools —    the model keeps talking while tools run in the background",
+            "homepage": null,
             "id": 1159857523,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-05-28T00:45:01Z",
+            "open_issues": 0,
             "owner": "mikegc-aws",
             "repo": "async-agentic-tools",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "ai-agents",
+              "amazon",
+              "async",
+              "aws",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -474,12 +732,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python functions powered by AI agents - with runtime post-conditions for reliable agentic workflows.",
+            "homepage": "https://strandsagents.com",
             "id": 1154860308,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:11:38Z",
+            "open_issues": 2,
             "owner": "strands-labs",
             "repo": "ai-functions",
-            "stars": 307
+            "stars": 308,
+            "topics": [
+              "agentic",
+              "agentic-ai",
+              "ai",
+              "genai",
+              "llm",
+              "machine-learning",
+              "python",
+              "strands-agents",
+              "strands-labs"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -490,12 +763,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simulated environments for robot agent evaluation and reinforcement learning.",
+            "homepage": "https://strands-labs.github.io/robots-sim/",
             "id": 1162028342,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T01:33:11Z",
+            "open_issues": 3,
             "owner": "strands-labs",
             "repo": "robots-sim",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "agentic",
+              "agentic-ai",
+              "ai",
+              "genai",
+              "machine-learning",
+              "python",
+              "robots",
+              "simulation",
+              "strands-agents",
+              "strands-labs",
+              "vision-language-action",
+              "vla"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -506,12 +797,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zero-code YAML-driven agent orchestration over strands-agents",
+            "homepage": null,
             "id": 1190006652,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T23:03:56Z",
+            "open_issues": 0,
             "owner": "strands-compose",
             "repo": "sdk-python",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "aws",
+              "gen-ai",
+              "llm",
+              "mcp",
+              "multi-agent",
+              "ollama",
+              "orchestration",
+              "python",
+              "strands-agents",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -522,12 +831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A planning-capable agent implementation using the Strands Agents SDK, inspired by the DeepAgents pattern. This library enables sophisticated multi-agent systems with autonomous planning, sub-agent delegation, and persistent state management.",
+            "homepage": "https://www.pierreange.ai/blog/deep-agents-using-strands",
             "id": 1089625948,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-16T09:41:39Z",
+            "open_issues": 1,
             "owner": "lemopian",
             "repo": "strands-deep-agents",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -538,12 +852,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hindsight: Agent Memory That  Learns",
+            "homepage": "https://hindsight.vectorize.io/",
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-28T18:58:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:29:34Z",
+            "open_issues": 139,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21599
+            "stars": 21610,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai-memory",
+              "memory"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -554,12 +878,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hindsight: Agent Memory That  Learns",
+            "homepage": "https://hindsight.vectorize.io/",
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-28T18:58:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:29:34Z",
+            "open_issues": 139,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21599
+            "stars": 21610,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai-memory",
+              "memory"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -570,12 +904,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis-based session management for persisting and managing agent sessions in the Strands Agents SDK",
+            "homepage": "https://pypi.org/project/strands-redis-session-manager/",
             "id": 1097134180,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-25T18:14:22Z",
+            "open_issues": 0,
             "owner": "lekhnath",
             "repo": "strands-redis-session-manager",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -586,12 +927,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template repo for boilerplate to get started with strands agents",
+            "homepage": null,
             "id": 1105579317,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-10T02:35:48Z",
+            "open_issues": 6,
             "owner": "deeheber",
             "repo": "strands-agent-template",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -602,12 +948,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scaffolding CLI for Strands Agents TypeScript projects — generate production-ready agents with memory, guardrails, A2A protocol, and AgentCore deployment support.",
+            "homepage": null,
             "id": 1228441012,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-05T00:59:27Z",
+            "open_issues": 0,
             "owner": "tverney",
             "repo": "create-strands-agent",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "a2a-protocol",
+              "ai-agents",
+              "aws-agentcore",
+              "cli",
+              "code-generator",
+              "npx",
+              "scaffolding",
+              "starter-kit",
+              "strands-agents",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -618,12 +980,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agent built with Strands deployed to Amazon Bedrock AgentCore to aid in the job hunt",
+            "homepage": null,
             "id": 1119778564,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-16T23:47:35Z",
+            "open_issues": 5,
             "owner": "deeheber",
             "repo": "job-search-agent",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "agentcore",
+              "ai-agents",
+              "aws",
+              "aws-cdk",
+              "python",
+              "strands-agents",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -634,12 +1009,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Observable AI agent runtime with built-in execution tracing. Inspect, replay, diff, and debug agent behavior step by step. Model-agnostic (Claude, Ollama, OpenAI, Gemini). Built on Strands Agents SDK.",
+            "homepage": null,
             "id": 1181826722,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-22T14:29:19Z",
+            "open_issues": 0,
             "owner": "jztan",
             "repo": "blueclaw",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ai-agent",
+              "automation",
+              "cli",
+              "debugging",
+              "llm",
+              "mcp",
+              "observability",
+              "python",
+              "strands-agents",
+              "terminal",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -650,12 +1042,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert OpenClaw skills (markdown documentation) to executable Strands Agents tools",
+            "homepage": null,
             "id": 1151223861,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-06T07:44:36Z",
+            "open_issues": 2,
             "owner": "Vivek0712",
             "repo": "clawskills-strands",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -666,12 +1063,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agent runtime implementation based on Strands Agents SDK",
+            "homepage": null,
             "id": 1041313533,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-25T02:44:33Z",
+            "open_issues": 1,
             "owner": "Moonlight-CL",
             "repo": "AgentX",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -682,12 +1084,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Valyu search tools for AWS Bedrock AgentCore and Strands Agents.",
+            "homepage": "https://pypi.org/project/valyu-agentcore/",
             "id": 1109477736,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-09T14:33:46Z",
+            "open_issues": 1,
             "owner": "valyuAI",
             "repo": "valyu-agentcore",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "agentcore",
+              "aws",
+              "aws-agentcore",
+              "search",
+              "valyu",
+              "web-search"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -698,12 +1112,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Voice AI agent for Ray-Ban Meta glasses using Amazon Bedrock AgentCore and Strands Agents",
+            "homepage": "https://elifuentes.tech/",
             "id": 1175642472,
             "language": "Swift",
+            "license": "MIT-0",
             "last_commit": "2026-03-08T18:27:30Z",
+            "open_issues": 0,
             "owner": "elizabethfuentes12",
             "repo": "meta-ai-agent-sample-for-aws-agentcore",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "aws-cdk",
+              "bedrock-agentcore",
+              "ios",
+              "ray-ban",
+              "ray-ban-meta",
+              "ray-ban-meta-smart-glasses",
+              "smart-glasses",
+              "strands-agents",
+              "voice-ai",
+              "voice-ai-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -714,12 +1144,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strands Agents in Rust",
+            "homepage": null,
             "id": 1121566421,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-12-23T07:39:19Z",
+            "open_issues": 1,
             "owner": "peitaosu",
             "repo": "strands-rs",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai",
+              "llm",
+              "llm-framework",
+              "orchestration",
+              "strands",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -730,12 +1174,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full-stack agentic harness on AWS — spin up multi-agent chatbots, voice-to-voice AI, RAG, and an Agent Factory on Bedrock AgentCore. From idea to deployed agent, fast.",
+            "homepage": null,
             "id": 1162509967,
             "language": "TypeScript",
+            "license": "MIT-0",
             "last_commit": "2026-08-07T14:22:18Z",
+            "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-agentic-chatbot-accelerator",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "agentcore",
+              "agentic-ai",
+              "aws",
+              "langgraph",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -746,12 +1201,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guidance on deploying a generative AI document analysis with Amazon Bedrock AgentCore. Auto-classifies, enhances, and aggregates multi-type documents using Gestalt-informed vision prompts. Custom analyzer creation wizard. Scripted CDK deployment. Gradio frontend included.",
+            "homepage": null,
             "id": 1148963395,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:03:05Z",
+            "open_issues": 11,
             "owner": "aws-samples",
             "repo": "sample-badgers",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "agentcore",
+              "agentcore-sdk",
+              "agentic-ai",
+              "agentic-workflow",
+              "amazon-nova",
+              "badgers",
+              "cdk",
+              "claude",
+              "composable-prompts",
+              "document-extraction",
+              "document-intelligence",
+              "document-vision",
+              "full-text-extraction",
+              "gestalt",
+              "prompt-engineering",
+              "strands-agent-sdk",
+              "strands-agents",
+              "vision-models"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -762,12 +1241,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time voice AI agent with Amazon Nova Sonic and AWS Bedrock AgentCore. Features bidirectional streaming, React UI, WebSocket communication, and one-command deployment. Includes authentication, tool use, and local development mode.",
+            "homepage": null,
             "id": 1161064753,
             "language": "TypeScript",
+            "license": "MIT-0",
             "last_commit": "2026-04-23T05:01:37Z",
+            "open_issues": 5,
             "owner": "aws-samples",
             "repo": "sample-nova-sonic-websocket-agentcore",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "bedrock-agentcore",
+              "nova",
+              "sonic",
+              "strands-agents",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -778,12 +1268,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample voice agent application based on Amazon Nova 2 Sonic and Amazon Kinesis Video Streams WebRTC service. It demonstrates the real-time audio streaming interaction between user and speech-to-speech model via WebRTC connection. It also supports tool use like RAG with Bedrock Knowledge Base, MCP servers, and Strands agent.",
+            "homepage": null,
             "id": 1047388493,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-05-16T00:33:50Z",
+            "open_issues": 7,
             "owner": "aws-samples",
             "repo": "sample-nova-sonic-speech2speech-webrtc",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "kinesis-video-streams",
+              "nova-sonic",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -794,12 +1293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1029987037,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-08-18T19:38:13Z",
+            "open_issues": 4,
             "owner": "aws-samples",
             "repo": "sample-strands-chaos-engineering-agents",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -810,12 +1314,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How to stop AI agents from hallucinating and wasting tokens. Working demos: Graph-RAG, semantic tool selection, neurosymbolic guardrails, DebounceHook — built with Strands Agents",
+            "homepage": null,
             "id": 1155842362,
             "language": "Jupyter Notebook",
+            "license": "MIT-0",
             "last_commit": "2026-07-01T20:53:41Z",
+            "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-why-agents-fail",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "agentic-ai",
+              "bedrock",
+              "openai",
+              "paper",
+              "strands-agents",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -826,12 +1342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1083320939,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-04-13T18:35:52Z",
+            "open_issues": 1,
             "owner": "aws-samples",
             "repo": "sample-agentcore-rai-strands-agents",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -842,12 +1363,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "End-to-end Intelligent Document Processing (IDP) pipeline using Amazon Bedrock, LanceDB, Lambda, Strands Agents, and Step   Functions. Supports multimodal document analysis for PDFs, images, videos, and audio.",
+            "homepage": "https://aws-samples.github.io/sample-aws-idp-pipeline/",
             "id": 1102202627,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-09T20:16:48Z",
+            "open_issues": 20,
             "owner": "aws-samples",
             "repo": "sample-aws-idp-pipeline",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "agentcore",
+              "bedrock",
+              "idp",
+              "intelligent-document-processing",
+              "nova-sonic",
+              "strands",
+              "unstructured-data"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -858,12 +1392,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hands-on Workshop on Building AI Agents with Strands, MCP, and Temporal",
+            "homepage": null,
             "id": 1165445407,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-20T12:59:29Z",
+            "open_issues": 0,
             "owner": "temporal-community",
             "repo": "bedrock-agents-mcp-workshop",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "agents",
+              "aws",
+              "bedrock",
+              "durable-execution",
+              "mcp",
+              "temporal",
+              "temporalio",
+              "workshop"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -874,12 +1422,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference architecture for agentic AI chatbots with Strands Agents and Amazon Bedrock AgentCore",
+            "homepage": null,
             "id": 1037029275,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T23:18:34Z",
+            "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-strands-agent-with-agentcore",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "a2a-protocol",
+              "agent-to-agent",
+              "agentcore",
+              "ai-agents",
+              "amazon-bedrock",
+              "browser-automation",
+              "mcp",
+              "multi-agent",
+              "skills",
+              "strands-agents",
+              "voice-assistant"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -890,12 +1455,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swarm of Agents to collaborate with doctors to detect tumors in MRI images.",
+            "homepage": "https://www.canva.com/design/DAGsDFCZ7RE/r-0GyfMG36u801e6Q0QlRg/view?utm_content=DAGsDFCZ7RE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0311d94cfe",
             "id": 989945033,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-10T17:10:41Z",
+            "open_issues": 0,
             "owner": "aintoniodev",
             "repo": "JUANAN",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "agents",
+              "ai",
+              "artificial-intelligence",
+              "aws",
+              "docker",
+              "docker-compose",
+              "health",
+              "healthcare",
+              "mri",
+              "mri-images",
+              "python",
+              "react",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -906,12 +1490,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Airline customer service agent on AWS Bedrock AgentCore with dual-memory: conversation history + Solutions Memory for successful cases. Users click \"Like\" to save resolutions for future reference. Includes Gateway policy engine, MCP tools, and Cognito auth. Handles refunds, delay compensation, and loyalty rebooking.",
+            "homepage": null,
             "id": 1157701753,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-14T06:50:32Z",
+            "open_issues": 0,
             "owner": "Anya2089",
             "repo": "Airline-booking-demo-strandsagent-agentcore-ver2.0-withsolutionmanager",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "agentcore",
+              "agentic-ai",
+              "airline-management-system",
+              "dual-memory-network",
+              "policy-engine",
+              "security-audit",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -922,12 +1519,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creative and interactive tools for Strands AI agents - Build agents with unique capabilities for Bluetooth, vision, cursor control, screen reading, chess, and more!",
+            "homepage": "https://strandsagents.com",
             "id": 1083381507,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T17:27:24Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-fun-tools",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "strands-agents",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -938,12 +1543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community tools for Strands Agent SDK: Deepgram, HubSpot, Microsoft Teams",
+            "homepage": null,
             "id": 1072653462,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-14T23:36:39Z",
+            "open_issues": 1,
             "owner": "eraykeskinmac",
             "repo": "strands-tools-community",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -954,12 +1564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-world examples and interactive demo for strands-tools-community",
+            "homepage": null,
             "id": 1072662044,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-04T02:07:25Z",
+            "open_issues": 1,
             "owner": "eraykeskinmac",
             "repo": "strands-tools-examples",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -970,12 +1585,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal Commerce Protocol",
+            "homepage": null,
             "id": 1132346205,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-22T15:50:29Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-ucp",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -986,12 +1606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive Telegram Bot API integration tool for Strands Agents SDK",
+            "homepage": null,
             "id": 1079536770,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-27T17:24:17Z",
+            "open_issues": 0,
             "owner": "eraykeskinmac",
             "repo": "strands-telegram",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1002,12 +1627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time Telegram message processing tool for Strands Agents SDK",
+            "homepage": null,
             "id": 1079547070,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-27T17:25:15Z",
+            "open_issues": 0,
             "owner": "eraykeskinmac",
             "repo": "strands-telegram-listener",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1018,12 +1648,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google API integration tools for Strands Agents",
+            "homepage": null,
             "id": 1120856731,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T17:15:46Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-google",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "google",
+              "strands-agents",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1034,12 +1673,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CV generation with Strands Agents + RenderCV",
+            "homepage": null,
             "id": 1130773896,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-22T15:51:28Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-rendercv",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1050,12 +1696,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run any HuggingFace transformers model from a Strands agent. A tool for every task, or the agent's own multimodal brain. Local. No API keys.",
+            "homepage": "https://cagataycali.github.io/strands-transformers/",
             "id": 1084393099,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-23T03:48:36Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-transformers",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "strands-agents",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1066,12 +1720,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://cagataycali.github.io/strands-diffusers/",
             "id": 1269447740,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-23T03:50:48Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-diffusers",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "diffusers",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1082,12 +1744,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CAD, mesh generation, and 3D printing tools for Strands agents - prompt-to-print pipeline with Bambu Lab integration",
+            "homepage": "https://cagataycali.github.io/strands-cad/",
             "id": 1302047653,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-19T07:30:49Z",
+            "open_issues": 1,
             "owner": "cagataycali",
             "repo": "strands-cad",
-            "stars": 1
+            "stars": 2,
+            "topics": [
+              "3d-printing",
+              "bambulab",
+              "prompt-to-print",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1098,12 +1770,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍎 Strands tool for the Apple ecosystem — mail, calendar, messages, contacts, photos, notes, reminders, Find My",
+            "homepage": null,
             "id": 1308157541,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-27T19:19:31Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-icloud",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "apple",
+              "icloud",
+              "strands",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1114,12 +1796,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive advanced course for building production-ready AI agents using the Strands Agents SDK. This repository contains 6 progressive labs that teach advanced capabilities including tool integration, memory persistence, Model Context Protocol (MCP), and comprehensive observability.",
+            "homepage": null,
             "id": 1068808933,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2025-10-03T00:15:26Z",
+            "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-Advanced-Strands-Agents-with-MCP",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "aws",
+              "mcp",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1130,12 +1823,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agentic Kubernetes management with Strands agent and local Kubernetes MCP server.",
+            "homepage": null,
             "id": 1074782541,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-15T13:07:17Z",
+            "open_issues": 0,
             "owner": "Tarique-B",
             "repo": "Agentic-Kubernetes-Management",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agentic-ai",
+              "aws-bedrock",
+              "kubernetes",
+              "kubernetes-ai",
+              "mcp-server",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1146,12 +1851,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building an AI Dining Assistant in 30 Minutes: From Local Development to Cloud Deployment",
+            "homepage": "https://aws.plainenglish.io/building-an-ai-dining-assistant-in-30-minutes-from-local-development-to-cloud-deployment-c9df0eab4f85",
             "id": 1051246588,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-09-05T19:20:02Z",
+            "open_issues": 0,
             "owner": "awsdataarchitect",
             "repo": "bedrock-dining-agent",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "amazon-nova",
+              "bedrock-agentcore",
+              "kiro",
+              "mcp-tools",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1162,12 +1878,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Fraud Investigator Assistant shows how AWS Bedrock, MCP servers, and Strands expert agents can transform fraud investigations. By combining private MCP servers for secure data with open-source MCPs for public intelligence, it speeds up case analysis and ensures compliance, reducing investigation timelines significantly.",
+            "homepage": null,
             "id": 1015487706,
             "language": "HCL",
+            "license": "MIT-0",
             "last_commit": "2026-02-20T23:38:13Z",
+            "open_issues": 1,
             "owner": "aws-samples",
             "repo": "sample-fraud-investigation-assistance-using-aws-bedrock-strandsagents-mcp",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "bedrock",
+              "expert-advisors",
+              "expert-system",
+              "fraud-detection",
+              "fraud-prevention",
+              "generative-ai",
+              "mcp",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1178,12 +1908,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn to build AI agents with Strands framework. Covers LLM integration via Amazon Bedrock/Anthropic, AWS service connections, tool implementation with MCP/A2A protocols, and agent evaluation using LangFuse/RAGAS.",
+            "homepage": null,
             "id": 1032753726,
             "language": "Jupyter Notebook",
+            "license": "MIT-0",
             "last_commit": "2026-06-05T21:55:57Z",
+            "open_issues": 3,
             "owner": "aws-samples",
             "repo": "sample-getting-started-with-strands-agents-course",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "a2a",
+              "anthropic",
+              "aws",
+              "bedrock",
+              "litellm",
+              "mcp",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1194,12 +1938,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWS-powered hotel booking multi-agent assistant built with Strands Agents, Amazon Bedrock AgentCore, A2A protocol, MCP, Bedrock Knowledge Base, serverless Lambda integrations, and AWS CDK. Provides natural-language hotel search, price discovery, booking, and policy advisory.",
+            "homepage": null,
             "id": 1065295435,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-09-29T20:05:20Z",
+            "open_issues": 0,
             "owner": "mohsinsheikhani",
             "repo": "multi-agent-hotel-assistant",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "a2a",
+              "a2a-protocol",
+              "agentic-ai",
+              "agentic-workflow",
+              "ai-agents",
+              "aws",
+              "aws-cdk-typescript",
+              "aws-lambda",
+              "bedrock-agentcore",
+              "dynamodb",
+              "mcp",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1210,12 +1972,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Production-ready samples for building multi-modal AI agents that understand images, documents, videos, and text using Amazon Bedrock and Strands Agents. Features Claude integration, MCP tools, streaming responses, and enterprise-grade architecture.",
+            "homepage": "https://dev.to/aws/multi-modal-content-processing-with-strands-agent-and-just-a-few-lines-of-code-4hn4",
             "id": 1025686898,
             "language": "Jupyter Notebook",
+            "license": "MIT-0",
             "last_commit": "2025-11-14T01:47:32Z",
+            "open_issues": 1,
             "owner": "elizabethfuentes12",
             "repo": "strands-agent-samples",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "amazon-bedrock",
+              "generative-ai",
+              "llm-applications",
+              "multimodal-ai",
+              "rag-systems",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1226,12 +2000,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full-stack AI chat application powered by Amazon Bedrock and Strands Agents",
+            "homepage": null,
             "id": 1037068834,
             "language": "TypeScript",
+            "license": "MIT-0",
             "last_commit": "2026-02-14T11:56:38Z",
+            "open_issues": 10,
             "owner": "aws-samples",
             "repo": "sample-strands-agents-chat",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "a2a",
+              "agentcore",
+              "ai-agents",
+              "bedrock",
+              "mcp",
+              "multiagent",
+              "serverless",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1242,12 +2030,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "  AI-powered browser automation agent that autonomously completes web forms using Amazon Bedrock models and Playwright. Demonstrates agentic workflows with episodic memory, accessibility tree analysis, and semantic element discovery.",
+            "homepage": null,
             "id": 1135605060,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-04-15T21:25:22Z",
+            "open_issues": 11,
             "owner": "aws-samples",
             "repo": "sample-agentic-form-filling",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ai-agents",
+              "amazon-bedrock",
+              "aws",
+              "browser-automation",
+              "demo",
+              "generative-ai",
+              "llm",
+              "playwright",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1258,12 +2062,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a One Shot Course on Strands Agents with Notebooks, Scripts, resources and Projects to take you from Zero To Hero in Strands Agents SDK usage in your Agentic AI Journey",
+            "homepage": "https://strandsagents.com/",
             "id": 1039447567,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-10-30T09:49:59Z",
+            "open_issues": 0,
             "owner": "LondheShubham153",
             "repo": "strands-agents-workshop",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "agentic-ai",
+              "aws",
+              "bedrock",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1274,12 +2088,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud serverless implementations of AWS Strands Agents.",
+            "homepage": null,
             "id": 1000856564,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-20T05:33:04Z",
+            "open_issues": 0,
             "owner": "didier-durand",
             "repo": "strands-serverless",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "aws",
+              "cloud",
+              "llm",
+              "python",
+              "serverless",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1290,12 +2118,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python-based agent that scans Gmail for bug tickets, classifies them by department using contextual analysis, and automatically routes each ticket to the appropriate team.",
+            "homepage": null,
             "id": 1004361720,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-16T13:42:00Z",
+            "open_issues": 0,
             "owner": "callraV",
             "repo": "strands-agents-ticket-router",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "bedrock",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1306,12 +2144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An intelligent wildfire detection and response agent using Amazon Bedrock AgentCore with the Strands Agent framework",
+            "homepage": null,
             "id": 1056888017,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-06T05:04:27Z",
+            "open_issues": 0,
             "owner": "myat555",
             "repo": "WildfireNowcast",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1322,12 +2165,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.",
+            "homepage": "https://awslabs.github.io/nx-plugin-for-aws/",
             "id": 901565223,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T16:03:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:59:51Z",
+            "open_issues": 18,
             "owner": "awslabs",
             "repo": "nx-plugin-for-aws",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "aws",
+              "aws-cdk",
+              "cloudfront",
+              "cloudscape",
+              "fastapi",
+              "lambda",
+              "mcp",
+              "nx",
+              "productivity",
+              "python",
+              "react",
+              "tanstack",
+              "trpc",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1338,12 +2201,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A conversation management system for Strands Agents that combines summarization with exact message recall using semantic search.",
+            "homepage": null,
             "id": 1063417672,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-03T09:42:55Z",
+            "open_issues": 0,
             "owner": "danilop",
             "repo": "strands-agents-semantic-summarizing-conversation-manager",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "ai-agents",
+              "conversation-management",
+              "memory",
+              "python",
+              "semantic-search",
+              "strands-agents",
+              "summarization"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1354,12 +2230,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Durable Execution for AI Agents built with Strands Agents and Temporal",
+            "homepage": null,
             "id": 1081910815,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-18T16:05:20Z",
+            "open_issues": 1,
             "owner": "LondheShubham153",
             "repo": "strands-temporal-agents",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "agent",
+              "agentic-workflow",
+              "strands-agents",
+              "temporal"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1370,12 +2256,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo with multiple AI agents using A2A (agent-to-agent) with the Strands Agents SDK.",
+            "homepage": null,
             "id": 1016144269,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-16T14:35:53Z",
+            "open_issues": 1,
             "owner": "danilop",
             "repo": "strands-a2a-demo",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "a2a",
+              "agent-to-agent",
+              "demo",
+              "generative-ai",
+              "multi-agent",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1386,12 +2285,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build production-ready AI agents with the Strands Agents SDK and AWS services. This repository demonstrates how you can create multi-modal systems with persistent memory in minimal code. Progress from your first agent to production-ready systems through hands-on chapters.",
+            "homepage": null,
             "id": 1100026620,
             "language": "Jupyter Notebook",
+            "license": "MIT-0",
             "last_commit": "2026-01-14T19:25:59Z",
+            "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-multimodal-agent-tutorial",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "aws",
+              "bedrock-agentcore",
+              "generative-ai",
+              "multimodal-learning",
+              "s3-storage",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1402,12 +2313,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSCAL tools for AI agents",
+            "homepage": null,
             "id": 1110813632,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-23T20:40:08Z",
+            "open_issues": 18,
             "owner": "awslabs",
             "repo": "mcp-server-for-oscal",
-            "stars": 52
+            "stars": 53,
+            "topics": [
+              "compliance-as-code",
+              "compliance-automation",
+              "continuous-compliance",
+              "mcp-server",
+              "oscal",
+              "security-as-code",
+              "security-assurance",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1418,12 +2343,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web-based collaborative document review application using Strands Agents and Amazon Nova models to simulate a discussion.",
+            "homepage": null,
             "id": 1028526707,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-31T17:12:43Z",
+            "open_issues": 0,
             "owner": "danilop",
             "repo": "ai-doc-read-studio",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "amazon-bedrock",
+              "amazon-nova",
+              "collaboration",
+              "document-review",
+              "generative-ai",
+              "strands-agents",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1434,12 +2372,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Skills implementation for Strands Agents SDK",
+            "homepage": null,
             "id": 1127581739,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-25T04:14:28Z",
+            "open_issues": 1,
             "owner": "aws-samples",
             "repo": "sample-strands-agents-agentskills",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "agent-skills",
+              "agentic-ai",
+              "agents-as-tools",
+              "agentskills",
+              "multi-agent",
+              "skills",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1450,12 +2401,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full-stack conversational AI starter kit built with Amazon Bedrock AgentCore, Strands Agents SDK, FastAPI, and htmx.",
+            "homepage": null,
             "id": 1115329475,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-08-20T06:09:47Z",
+            "open_issues": 1,
             "owner": "aws-samples",
             "repo": "sample-strands-agentcore-starter",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "agentcore",
+              "agentic-ai",
+              "aws",
+              "bedrock",
+              "bedrock-agentcore-runtime",
+              "strands-agents-examples"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1466,12 +2429,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This guidance demonstrates how to deploy a comprehensive agentic application for advertising workflows using Amazon Bedrock AgentCore. The solution showcases advanced multi-agent collaboration across the entire advertising value chain - from strategic media planning and audience targeting to real-time bid optimization and publisher revenue manageme",
+            "homepage": "https://aws.amazon.com/solutions/guidance/advertising-agents-on-aws/",
             "id": 1055730295,
             "language": "TypeScript",
+            "license": "MIT-0",
             "last_commit": "2026-08-27T21:31:48Z",
+            "open_issues": 1,
             "owner": "aws-solutions-library-samples",
             "repo": "guidance-for-advertising-agents-on-aws",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "advertising",
+              "amazon-bedrock-agentcore",
+              "aws-bedrock",
+              "monetization",
+              "multi-agent-systems",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1482,12 +2457,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample Agentic Cost Optimizer",
+            "homepage": null,
             "id": 1086436106,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-08-17T09:09:25Z",
+            "open_issues": 16,
             "owner": "aws-samples",
             "repo": "sample-agentic-cost-optimizer",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "agent",
+              "agentcore",
+              "ai",
+              "aws",
+              "aws-lambda",
+              "bedrock",
+              "lambda",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1498,12 +2487,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agentic AI assistant for proactive AWS Health Event management and impact analysis",
+            "homepage": null,
             "id": 1114187325,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-06-22T02:42:48Z",
+            "open_issues": 13,
             "owner": "aws-samples",
             "repo": "sample-aws-health-agentic-assistant",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "agentic-ai",
+              "ai",
+              "ai-agents",
+              "aws",
+              "aws-support",
+              "bedrock",
+              "event-analysis",
+              "generative-ai",
+              "health-event",
+              "health-monitoring",
+              "strands",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1514,12 +2521,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building Production-Ready AI Agent Evaluation with Opik MCP Server on AWS AgentCore",
+            "homepage": null,
             "id": 1127842998,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-04T23:24:46Z",
+            "open_issues": 0,
             "owner": "anespo",
             "repo": "opik-mcp-server",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "agent",
+              "agentcore",
+              "agentic-ai",
+              "kiro-ide",
+              "langraph",
+              "opik",
+              "pydantic",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1530,12 +2551,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Travel agent built using Kiro with AWS Strands framework and deployed to AgentCore with Bedrock for LLM inference.",
+            "homepage": "https://portal.okahu.co",
             "id": 1138051217,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T11:54:19Z",
+            "open_issues": 1,
             "owner": "okahu-demos",
             "repo": "aws-strands-agentcore",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "agentcore",
+              "agentic-ai",
+              "aws",
+              "monocle2ai",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1546,12 +2578,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give your AI agent an on-chain identity in one line.",
+            "homepage": "https://strandsagents.com",
             "id": 1154153160,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T16:55:22Z",
+            "open_issues": 1,
             "owner": "cagataycali",
             "repo": "strands-erc8004",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "erc8004",
+              "ethereum",
+              "strands-agents",
+              "trustless-agents",
+              "x402"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1562,12 +2605,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HackerOne API tool for Strands Agents. Automate bug bounty research, program monitoring, and report management with AI.",
+            "homepage": "https://strandsagents.com",
             "id": 1129997527,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-22T15:53:38Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-hackerone",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1578,12 +2628,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Agentic AI solutions on AWS, using latest OSS Agentic Frameworks.",
+            "homepage": null,
             "id": 904347595,
             "language": "Jupyter Notebook",
+            "license": "MIT-0",
             "last_commit": "2026-06-02T16:40:45Z",
+            "open_issues": 47,
             "owner": "aws-samples",
             "repo": "sample-agentic-frameworks-on-aws",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "a2a-protocol",
+              "agentic-ai",
+              "arize-phoenix",
+              "crewai",
+              "langgraph",
+              "llamaindex",
+              "mem0",
+              "pipecat",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1594,12 +2659,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amazon Bedrock Foundation models with Amazon Opensearch Serverless as a Vector DB",
+            "homepage": "https://aws.amazon.com/blogs/big-data/build-scalable-and-serverless-rag-workflows-with-a-vector-engine-for-amazon-opensearch-serverless-and-amazon-bedrock-claude-models/",
             "id": 681931799,
             "language": "TypeScript",
+            "license": "MIT-0",
             "last_commit": "2026-08-21T18:19:46Z",
+            "open_issues": 12,
             "owner": "aws-samples",
             "repo": "serverless-rag-demo",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "anthropic",
+              "claude",
+              "haiku",
+              "opensearch",
+              "opensearchserverless",
+              "rag",
+              "sonnet",
+              "strands",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1610,12 +2690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于Strands agents的多智能体项目",
+            "homepage": null,
             "id": 1112820064,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-26T06:10:03Z",
+            "open_issues": 1,
             "owner": "1844909740",
             "repo": "mutli-agents",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1626,12 +2711,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sample agentic ai platform to run agentic workflows on AWS using either EKS or Bedrock AgentCore with open source frameworks like LangChain/LangGraph, Strands, etc..  ",
+            "homepage": null,
             "id": 970217836,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-06-18T10:53:17Z",
+            "open_issues": 30,
             "owner": "aws-samples",
             "repo": "sample-agentic-platform",
-            "stars": 128
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1642,12 +2732,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo covers LLM, Agents, MCP Tools, Skills concepts with sample codes: LangChain & LangGraph, AWS Strands Agents, Google Agent Development Kit, Fundamentals.",
+            "homepage": null,
             "id": 961856693,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-24T16:18:51Z",
+            "open_issues": 0,
             "owner": "omerbsezer",
             "repo": "Fast-LLM-Agent-MCP",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "agent-development",
+              "agents",
+              "ai",
+              "aws",
+              "bedrock",
+              "finetuning",
+              "gemini",
+              "google-adk",
+              "langchain",
+              "langgraph",
+              "llm",
+              "llm-agent",
+              "mcp",
+              "mcp-tools",
+              "multiagent",
+              "rag",
+              "skills",
+              "strands-agent",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1658,12 +2773,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It shows how to use strands agent.",
+            "homepage": null,
             "id": 985988856,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T06:40:01Z",
+            "open_issues": 1,
             "owner": "kyopark2014",
             "repo": "strands-agent",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "agent",
+              "aws",
+              "strands-agent"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1674,12 +2798,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building an Intelligent AWS Cloud Engineer Agent with Strands Agents SDK",
+            "homepage": "https://vivek-aws.medium.com/building-an-intelligent-aws-cloud-engineer-agent-with-strands-agents-sdk-13d5a003c8be",
             "id": 986491902,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-16T21:16:51Z",
+            "open_issues": 3,
             "owner": "awsdataarchitect",
             "repo": "cloudeng-strands-agent",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "agentic-ai",
+              "awscdk",
+              "bedrock",
+              "fargate",
+              "strands"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1690,12 +2825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project designed to learn and develop Strands Agents, leveraging the SDK power for building efficient AI agents.",
+            "homepage": null,
             "id": 992077111,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-03T08:07:19Z",
+            "open_issues": 0,
             "owner": "davidshtian",
             "repo": "Learning-Strands-Agents",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1706,12 +2846,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "exam generator based on Strands Agent自动生成多种考试题型、适配不同年级、难度要求的的agentic工具。",
+            "homepage": null,
             "id": 1025250585,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-10-23T06:35:15Z",
+            "open_issues": 1,
             "owner": "Anya2089",
             "repo": "exam_generator_strands",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "evaluation-framework",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1722,12 +2870,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 993461006,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2025-12-02T17:01:10Z",
+            "open_issues": 2,
             "owner": "aws-samples",
             "repo": "sample-build-a-life-science-research-assistant-using-strands-agents",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1738,12 +2891,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Specification 1 (hierarchical style)  for an agentic software development crew, for implementation with mainstream Agentic platforms like Claude Code, Strands, etc.",
+            "homepage": null,
             "id": 1066354952,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-21T10:11:56Z",
+            "open_issues": 1,
             "owner": "GSA-TTS",
             "repo": "devCrew_s1",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1754,12 +2912,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agentic AI dashboard app that uses AWS Strands SDK. KubeArmor based least-permissive security is showcased. ",
+            "homepage": null,
             "id": 986313080,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-23T16:20:34Z",
+            "open_issues": 1,
             "owner": "accuknox",
             "repo": "agentic-ai-strands",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "agent",
+              "agentic",
+              "ai",
+              "aws",
+              "kubearmor",
+              "modelarmor",
+              "strands"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1770,12 +2941,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive multi-agent coordination system built with the Strands framework, demonstrating advanced \"Agents as Tools\" patterns for solving complex cloud engineering problems.",
+            "homepage": null,
             "id": 1005265886,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-19T22:39:02Z",
+            "open_issues": 0,
             "owner": "4l3j4ndr0",
             "repo": "strands-agents-ecosystem",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1786,12 +2962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Streamlit WebUI for Strands Agent SDK.",
+            "homepage": null,
             "id": 985310646,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-11T11:30:52Z",
+            "open_issues": 1,
             "owner": "jief123",
             "repo": "strands-web-ui",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1802,12 +2983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQLite-based session manager for Strands agents with thread-safe operations and connection pooling",
+            "homepage": null,
             "id": 1095917056,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-14T03:03:08Z",
+            "open_issues": 0,
             "owner": "afarntrog",
             "repo": "strands-sqlite-session-manager",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1818,12 +3004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community extensions for the Strands Agents SDK - session managers, plugins, and more.",
+            "homepage": null,
             "id": 1195742445,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-13T18:24:24Z",
+            "open_issues": 1,
             "owner": "afarntrog",
             "repo": "strands-agents-extensions",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1834,12 +3025,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amazon Bedrock AgentCore – Multi Framework Examples",
+            "homepage": null,
             "id": 1057106599,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-24T08:12:21Z",
+            "open_issues": 1,
             "owner": "danilop",
             "repo": "agentcore-multi-framework-examples",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "agentcore",
+              "ai-agents",
+              "amazon-bedrock",
+              "aws",
+              "examples",
+              "langgraph",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1850,12 +3055,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1080728861,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-22T15:52:40Z",
+            "open_issues": 1,
             "owner": "cagataycali",
             "repo": "strands-re-invent",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "aws",
+              "re-invent",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1866,12 +3080,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This notebook demonstrates how to create an intelligent document processing (IDP) solution using Amazon Bedrock Data Automation (BDA) with Amazon Bedrock AgentCore Runtime. Instead of traditional Bedrock Agents, we'll deploy a Strands Agent through AgentCore, providing enterprise-grade capabilities with framework flexibility.",
+            "homepage": null,
             "id": 1091947346,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2025-11-07T19:05:27Z",
+            "open_issues": 2,
             "owner": "aws-samples",
             "repo": "sample-for-amazon-bda-agents",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "amazon-bedrock-agents",
+              "amazon-bedrock-data-automation",
+              "amazon-web-services",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1882,12 +3106,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This sample demonstrates building a logistics tracking agent using Strands Agents SDK and an OpenAI model hosted on Amazon Bedrock AgentCore Runtime with VPC connectivity. The implementation shows how to create an intelligent agent that uses local tools to query a private Amazon RDS database running in an Amazon VPC to track shipments and delays.",
+            "homepage": null,
             "id": 1118494704,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-07-28T08:09:38Z",
+            "open_issues": 1,
             "owner": "aws-samples",
             "repo": "sample-logistics-agent-agentcore-runtime",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "agentic-ai",
+              "aws",
+              "bedrock-agentcore",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1898,12 +3132,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains hands-on labs demonstrating the capabilities of Amazon Bedrock AgentCore, a suite of services that enables you to deploy and operate highly effective AI agents securely at scale",
+            "homepage": "https://builder.aws.com/content/346sGzwAP4tAi5dAz3qkwp0HlvM/bring-ai-agents-into-production-in-minutes-runtime",
             "id": 1082862399,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-01-22T04:25:06Z",
+            "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-getting-started-with-amazon-agentcore",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "agentcore-sdk",
+              "agentic-ai",
+              "aws",
+              "bedrock",
+              "cloudwatch",
+              "observability",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1914,12 +3161,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": "https://aws-bedrock-production.up.railway.app/",
             "id": 1108725983,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-12T20:35:22Z",
+            "open_issues": 0,
             "owner": "CopilotKit",
             "repo": "strands-file-analyzer-demo",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "copilotkit",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1930,12 +3185,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal end-to-end tutorial to build an autonomous agent that generates mathematical animations using AWS Strands, Manim, and MCP.",
+            "homepage": null,
             "id": 1117435578,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-17T09:08:46Z",
+            "open_issues": 0,
             "owner": "DanielPuentee",
             "repo": "strands-agents-manim",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ai-agents",
+              "claude",
+              "mcp",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1946,12 +3211,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An autonomous voice cloning agent powered by Amazon Bedrock AgentCore, Strands framework, and Nova Premier Model that captures your voice profile & synthesizes speech with intelligent tool execution.",
+            "homepage": "https://www.youtube.com/watch?v=Mx7qGX3PEqg",
             "id": 1079582438,
             "language": "Svelte",
+            "license": null,
             "last_commit": "2025-10-22T04:46:23Z",
+            "open_issues": 0,
             "owner": "awsdataarchitect",
             "repo": "voice-cloning-agentcore",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "agentcore",
+              "amazon-nova",
+              "amplify",
+              "appsync-graphql-api",
+              "cognito",
+              "kiro-ide",
+              "q-developer-cli",
+              "quick-suite",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1962,12 +3242,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal + Strands demo for GenAI powered loan underwriter",
+            "homepage": null,
             "id": 1062290176,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-12T15:47:40Z",
+            "open_issues": 1,
             "owner": "darshitvvora",
             "repo": "temporal-agentic-loan-underwriter",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "fastapi",
+              "python",
+              "strands-agent-sdk",
+              "strands-agents",
+              "streamlit",
+              "temporal",
+              "temporalio"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1978,12 +3271,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloudflare tool for Strands Agents ",
+            "homepage": null,
             "id": 1138566598,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-22T10:13:11Z",
+            "open_issues": 1,
             "owner": "mertozbas",
             "repo": "strands-cloudflare",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cloudflare",
+              "cloudflare-api",
+              "strands-agents",
+              "strands-cloudflare"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -1994,12 +3297,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A real-time cryptocurrency trading dashboard powered by AI agents with multi-exchange support",
+            "homepage": "http://hashtrade.ai/",
             "id": 1100209272,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T20:32:24Z",
+            "open_issues": 1,
             "owner": "mertozbas",
             "repo": "hashtrade",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "agentic-trading",
+              "exchange",
+              "strands-agents",
+              "trade"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2010,12 +3323,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Audited Context Generation (ACG) Protocol prevents AI hallucinations with a dual-layer system. The UGVP layer links every fact to a precise source for verification. The RSVP layer audits the AI's logical reasoning when combining facts. This creates a fully transparent, machine-auditable trail for both source and logical integrity.",
+            "homepage": null,
             "id": 1076440883,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-13T21:40:43Z",
+            "open_issues": 2,
             "owner": "Kos-M",
             "repo": "acg_protocol",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "agent-trace",
+              "agent-trail",
+              "ai",
+              "atomiic-fact-grounding",
+              "audit-agent",
+              "audit-llm-responses",
+              "chatbot",
+              "context-protocol",
+              "grounded-answers",
+              "halucination",
+              "llm",
+              "rag",
+              "rag-pipeline",
+              "strands",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2026,12 +3360,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWS Bedrock Agentcore sample illustrating multi tenancy",
+            "homepage": null,
             "id": 1113672910,
             "language": "TypeScript",
+            "license": "MIT-0",
             "last_commit": "2025-12-10T10:57:46Z",
+            "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-agentcore-multi-tenant",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "agentcore",
+              "agentic-ai",
+              "aws",
+              "aws-bedrock",
+              "aws-bedrock-agentcore",
+              "multitenant",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2042,12 +3389,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Production deployment of Deep Research Agents to AWS Bedrock AgentCore using Terraform IaC, with LangFuse integration for comprehensive observability and monitoring.",
+            "homepage": "https://www.pierreange.ai/blog/deploy-your-own-deep-research-agent",
             "id": 1104731543,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-04T07:20:47Z",
+            "open_issues": 0,
             "owner": "lemopian",
             "repo": "deepagents-bedrock-agentcore-terraform",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "agent",
+              "aws",
+              "bedrock",
+              "bedrock-agentcore",
+              "deepresearch",
+              "genai",
+              "monitoring",
+              "production",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2058,12 +3420,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package provides a Strands-native “cost guard” layer for AI agents, focused on controlling and attributing LLM and tool spend within Strands-based workflows. It enforces budgets and policies at run time while emitting persistent, OpenTelemetry-style metrics so teams can monitor and optimize cost across tenants, strands, and workflows.",
+            "homepage": null,
             "id": 1113059015,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-10T18:49:01Z",
+            "open_issues": 1,
             "owner": "wisemanIV",
             "repo": "strands-costguard",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "aws-cost-management",
+              "aws-cost-saving",
+              "strands",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2074,12 +3446,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📈 AI-powered stock assistant using Strands Agent that analyzes stocks using real-time web data and financial insights to answer investment queries.",
+            "homepage": null,
             "id": 1001877393,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-24T07:27:18Z",
+            "open_issues": 0,
             "owner": "pajaydev",
             "repo": "stock-assistant-agent",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "stock-analysis",
+              "stock-assistant",
+              "strands",
+              "strands-agent-sdk",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2090,12 +3473,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analyze AWS CloudTrail events with security insights, powered by Strands Agent, AWS Bedrock LLMs, and AWS Bedrock AgentCore Runtime.",
+            "homepage": null,
             "id": 1069563426,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-15T13:05:46Z",
+            "open_issues": 0,
             "owner": "Tarique-B",
             "repo": "AWS-CloudTrail-Security-AI-Agent",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "aws",
+              "aws-bedrock",
+              "bedrock",
+              "bedrock-agentcore",
+              "cloudtrail",
+              "genai",
+              "llm",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2106,12 +3506,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability.",
+            "homepage": "https://aws.amazon.com/blogs/opensource/introducing-strands-agent-sops-natural-language-workflows-for-ai-agents/",
             "id": 1089883859,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T18:05:03Z",
+            "open_issues": 7,
             "owner": "strands-agents",
             "repo": "agent-sop",
-            "stars": 1135
+            "stars": 1135,
+            "topics": [
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2122,12 +3529,32 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A model-driven approach to building AI agents in just a few lines of code. ",
+            "homepage": "https://strandsagents.com",
             "id": 1059784055,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-03T00:24:32Z",
+            "open_issues": 33,
             "owner": "strands-agents",
             "repo": "sdk-typescript",
-            "stars": 693
+            "stars": 693,
+            "topics": [
+              "agents",
+              "ai",
+              "autonomous-agents",
+              "bedrock",
+              "genai",
+              "javascript",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "multi-agent-systems",
+              "openai",
+              "opentelemetry",
+              "strands-agents",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2138,12 +3565,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code. ",
+            "homepage": "https://strandsagents.com",
             "id": 983716936,
             "language": "MDX",
+            "license": null,
             "last_commit": "2026-06-02T21:25:11Z",
+            "open_issues": 62,
             "owner": "strands-agents",
             "repo": "docs",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "agentic",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "anthropic",
+              "autonomous-agents",
+              "bedrock",
+              "genai",
+              "litellm",
+              "llama",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "multi-agent-systems",
+              "ollama",
+              "openai",
+              "opentelemetry",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2154,12 +3606,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive evaluation framework for AI agents and LLM applications.",
+            "homepage": "https://strandsagents.com",
             "id": 1029970068,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:13:31Z",
+            "open_issues": 84,
             "owner": "strands-agents",
             "repo": "evals",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "agentic",
+              "agentic-ai",
+              "ai",
+              "evaluation",
+              "machine-learning",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2170,12 +3635,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Common GitHub workflows, actions, and shared tooling used across the Strands Agents organization.",
+            "homepage": "https://strandsagents.com",
             "id": 1134333563,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T16:07:48Z",
+            "open_issues": 5,
             "owner": "strands-agents",
             "repo": "devtools",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "agentic",
+              "agents",
+              "ai",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2186,12 +3661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny CLI for pushing a Strands Agent file to Bedrock AgentCore Runtime",
+            "homepage": null,
             "id": 1238883557,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T01:14:45Z",
+            "open_issues": 0,
             "owner": "minorun365",
             "repo": "agentcore-push",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2202,12 +3682,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolkit for Seamlessly Enabling RL Training on Any Agent with Bedrock AgentCore.",
+            "homepage": "https://awslabs.github.io/agentcore-rl-toolkit/",
             "id": 1113381446,
             "language": "Python",
-            "last_commit": "2026-08-27T18:04:30Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:04:50Z",
+            "open_issues": 15,
             "owner": "awslabs",
             "repo": "agentcore-rl-toolkit",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "agentcore",
+              "agentic-ai",
+              "agentic-rl",
+              "microvm",
+              "rl",
+              "sandbox"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2218,12 +3710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure.",
+            "homepage": null,
             "id": 1015684263,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:05:26Z",
+            "open_issues": 114,
             "owner": "aws",
             "repo": "bedrock-agentcore-sdk-python",
-            "stars": 755
+            "stars": 755,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2234,12 +3731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hiddenlayer Integration with AWS strands",
+            "homepage": null,
             "id": 1090458757,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-01T18:11:47Z",
+            "open_issues": 9,
             "owner": "hiddenlayerai",
             "repo": "hiddenlayer-strands-guardrails",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2250,12 +3752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 957411509,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-07T12:10:57Z",
+            "open_issues": 9,
             "owner": "coralogix",
             "repo": "llm-tracekit",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2266,12 +3773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The NVIDIA NeMo Agent toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.",
+            "homepage": "https://docs.nvidia.com/nemo/agent-toolkit/latest/",
             "id": 944039567,
             "language": "Python",
-            "last_commit": "2026-08-28T19:29:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:38:07Z",
+            "open_issues": 33,
             "owner": "NVIDIA",
             "repo": "NeMo-Agent-Toolkit",
-            "stars": 2605
+            "stars": 2605,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2282,12 +3794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1120496048,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-12T14:34:04Z",
+            "open_issues": 0,
             "owner": "eva-zuliya",
             "repo": "stitchlab-agentcore",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2298,12 +3815,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give your agent a phone.",
+            "homepage": "https://cagataycali.github.io/strands-adb/",
             "id": 1222101300,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-23T03:51:06Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-adb",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "adb",
+              "agent-tools",
+              "android",
+              "devduck",
+              "python",
+              "strands-agents",
+              "strands-agents-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2314,12 +3844,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strands iOS",
+            "homepage": null,
             "id": 1222230593,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-27T19:19:30Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-ios",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ios",
+              "strands",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2330,12 +3869,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.",
+            "homepage": "https://strandsagents.com",
             "id": 983717795,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-12T21:36:18Z",
+            "open_issues": 6,
             "owner": "strands-agents",
             "repo": "agent-builder",
-            "stars": 426
+            "stars": 426,
+            "topics": [
+              "agentic",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "anthropic",
+              "autonomous-agents",
+              "bedrock",
+              "genai",
+              "litellm",
+              "llama",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "multi-agent-systems",
+              "ollama",
+              "openai",
+              "opentelemetry",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2346,12 +3910,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This MCP server provides documentation about Strands Agents to your GenAI tools, so you can use your favorite AI coding assistant to vibe-code Strands Agents.",
+            "homepage": "https://strandsagents.com",
             "id": 983719468,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-27T17:35:59Z",
+            "open_issues": 7,
             "owner": "strands-agents",
             "repo": "mcp-server",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "agentic",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "anthropic",
+              "autonomous-agents",
+              "bedrock",
+              "genai",
+              "litellm",
+              "llama",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "multi-agent-systems",
+              "ollama",
+              "openai",
+              "opentelemetry",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2362,12 +3951,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-evolving tool synthesis for Strands Agents — agents that create their own tools",
+            "homepage": "https://arise-ai.dev",
             "id": 1192299801,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-29T01:14:00Z",
+            "open_issues": 0,
             "owner": "abekek",
             "repo": "strands-arise",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agents",
+              "ai",
+              "llm",
+              "plugin",
+              "self-evolving",
+              "strands-agents",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2378,12 +3980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A coding agent built on Strands Agents SDK that replaces the tool-calling paradigm with CodeAct (code generation) as the agent's primary action interface.",
+            "homepage": null,
             "id": 1238548881,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-08-17T16:27:31Z",
+            "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-strands-code-agent",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2394,12 +4001,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bedrock AgentCore deployment adapter for strands-compose",
+            "homepage": null,
             "id": 1208880548,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T23:08:06Z",
+            "open_issues": 0,
             "owner": "strands-compose",
             "repo": "bedrock-agentcore",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agentcore",
+              "agentcore-cli",
+              "agents",
+              "aws",
+              "aws-cdk",
+              "bedrock",
+              "deployment",
+              "strands-agents",
+              "strands-compose"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2410,12 +4032,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NVIDIA OSMO workflow orchestration for Strands Agents - submit, monitor, and debug Physical AI pipelines from natural language.",
+            "homepage": "https://cagataycali.github.io/strands-osmo/",
             "id": 1239095956,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-23T17:16:12Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-osmo",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "nvidia",
+              "osmo",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2426,12 +4057,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools created for strands agents",
+            "homepage": null,
             "id": 1082901693,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-09T16:55:55Z",
+            "open_issues": 1,
             "owner": "labeveryday",
             "repo": "strands-pack",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "aws-ai-tools",
+              "claude-tools",
+              "gemini-tools",
+              "python",
+              "strands-agents",
+              "strands-agents-examples",
+              "strands-agents-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2442,12 +4086,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perplexity search tool for Strands Agents. ",
+            "homepage": null,
             "id": 1142744356,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-26T20:49:31Z",
+            "open_issues": 1,
             "owner": "mkmeral",
             "repo": "strands-perplexity",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "perplexity",
+              "search",
+              "strands-agents",
+              "strands-agents-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2458,12 +4112,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1108522255,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-02T16:38:50Z",
+            "open_issues": 1,
             "owner": "macuartin",
             "repo": "strands-postgresql-session-manager",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2474,12 +4133,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give your agent a body. Pixel-perfect human understanding, as tools.",
+            "homepage": "https://cagataycali.github.io/strands-sapiens/",
             "id": 1220330600,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-23T17:15:52Z",
+            "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-sapiens",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "sapiens",
+              "strands-agents",
+              "strands-agents-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2490,12 +4158,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general-purpose SQL tool for Strands Agents — supports PostgreSQL, MySQL, and SQLite via SQLAlchemy",
+            "homepage": null,
             "id": 1205885676,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-10T04:05:47Z",
+            "open_issues": 1,
             "owner": "NithiN-1808",
             "repo": "strands-sql",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "agentic-ai",
+              "llm-tools",
+              "llms",
+              "sql",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2506,12 +4185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1144811613,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-04T02:26:42Z",
+            "open_issues": 0,
             "owner": "JackXu0",
             "repo": "strands-swarms",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2522,12 +4206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1162726703,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-20T17:13:31Z",
+            "open_issues": 0,
             "owner": "flockcover",
             "repo": "strands-token-telemetry",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2538,12 +4227,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "strands-utcp",
+            "homepage": null,
             "id": 1071401163,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-08T09:29:46Z",
+            "open_issues": 1,
             "owner": "universal-tool-calling-protocol",
             "repo": "strands-utcp",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2554,12 +4248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Valkey Session Manager for Strands agent",
+            "homepage": null,
             "id": 1077601848,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-15T14:31:02Z",
+            "open_issues": 4,
             "owner": "jeromevdl",
             "repo": "strands-valkey-session-manager",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2570,12 +4269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community package for Strands Agent SDK for vLLM ",
+            "homepage": null,
             "id": 1130223684,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-23T06:11:39Z",
+            "open_issues": 1,
             "owner": "agents-community",
             "repo": "strands-vllm",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2586,12 +4290,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A strands agent memory manager that uses Supabase as the store",
+            "homepage": null,
             "id": 1153194738,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-21T09:36:11Z",
+            "open_issues": 0,
             "owner": "siddharthkrish",
             "repo": "strands-supabase-session-manager",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2602,12 +4313,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Valyu search tools for AWS Bedrock AgentCore and Strands Agents.",
+            "homepage": "https://pypi.org/project/valyu-agentcore/",
             "id": 1109477736,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-09T14:33:46Z",
+            "open_issues": 1,
             "owner": "valyuAI",
             "repo": "valyu-agentcore",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "agentcore",
+              "aws",
+              "aws-agentcore",
+              "search",
+              "valyu",
+              "web-search"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         }
@@ -2624,12 +4347,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+            "homepage": "http://strandsagents.com/",
             "id": 983715534,
             "language": "Python",
-            "last_commit": "2026-08-28T20:21:34Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:11:54Z",
+            "open_issues": 675,
             "owner": "strands-agents",
             "repo": "harness-sdk",
-            "stars": 7037
+            "stars": 7042,
+            "topics": [
+              "agent-framework",
+              "agentic",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "autonomous-agents",
+              "bedrock",
+              "generative-ai",
+              "harness",
+              "llm",
+              "llm-agent",
+              "mcp",
+              "multi-agent-systems",
+              "openai",
+              "python",
+              "sdk",
+              "strands-agents",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2640,12 +4389,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of tools that gives agents powerful capabilities.",
+            "homepage": "https://strandsagents.com",
             "id": 983716118,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:48:52Z",
+            "open_issues": 138,
             "owner": "strands-agents",
             "repo": "tools",
-            "stars": 1159
+            "stars": 1159,
+            "topics": [
+              "agentic",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "anthropic",
+              "autonomous-agents",
+              "bedrock",
+              "genai",
+              "litellm",
+              "llama",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "multi-agent-systems",
+              "ollama",
+              "openai",
+              "opentelemetry",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         },
@@ -2656,12 +4430,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent samples built using the Strands Agents SDK.",
+            "homepage": "https://strandsagents.com",
             "id": 983718975,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T20:54:28Z",
+            "open_issues": 42,
             "owner": "strands-agents",
             "repo": "samples",
-            "stars": 835
+            "stars": 836,
+            "topics": [
+              "agentic",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "anthropic",
+              "autonomous-agents",
+              "bedrock",
+              "genai",
+              "litellm",
+              "llama",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "multi-agent-systems",
+              "ollama",
+              "openai",
+              "opentelemetry",
+              "python",
+              "strands-agents"
+            ]
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
         }
@@ -2670,15 +4469,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:26:16.267Z",
+    "last_updated": "2026-08-29T05:02:00.702Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated resources related Strands Agents.",
+      "homepage": "https://strands.my",
       "id": 992710242,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-31T01:35:11Z",
+      "open_issues": 0,
       "owner": "cagataycali",
       "repo": "awesome-strands-agents",
-      "stars": 63
+      "stars": 63,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "strands-agents"
+      ]
     },
     "original_repository_sha": "1e7ad607dd53f2593cca8b25d42bbfd9cf9e7bfd",
     "enhanced_repository": "enhansome/enhansome-strands-agents",
