@@ -419,7 +419,7 @@
             "open_issues": 0,
             "owner": "cagataycali",
             "repo": "strands-coder",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "autonomous-agents",
               "strands-agents"
@@ -586,8 +586,8 @@
             "id": 1126036344,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T03:45:17Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-20T11:05:27Z",
+            "open_issues": 3,
             "owner": "strands-rl",
             "repo": "strands-sglang",
             "stars": 78,
@@ -857,11 +857,11 @@
             "id": 1086419061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T23:57:39Z",
-            "open_issues": 89,
+            "last_commit": "2026-09-19T14:30:38Z",
+            "open_issues": 100,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 23939,
+            "stars": 24029,
             "topics": [
               "agentic-ai",
               "agents",
@@ -883,11 +883,11 @@
             "id": 1086419061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T23:57:39Z",
-            "open_issues": 89,
+            "last_commit": "2026-09-19T14:30:38Z",
+            "open_issues": 100,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 23939,
+            "stars": 24029,
             "topics": [
               "agentic-ai",
               "agents",
@@ -989,7 +989,7 @@
             "open_issues": 5,
             "owner": "deeheber",
             "repo": "job-search-agent",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "agentcore",
               "ai-agents",
@@ -1805,7 +1805,7 @@
             "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-Advanced-Strands-Agents-with-MCP",
-            "stars": 14,
+            "stars": 16,
             "topics": [
               "agentic-ai",
               "agents",
@@ -1917,7 +1917,7 @@
             "open_issues": 3,
             "owner": "aws-samples",
             "repo": "sample-getting-started-with-strands-agents-course",
-            "stars": 183,
+            "stars": 185,
             "topics": [
               "a2a",
               "anthropic",
@@ -2039,7 +2039,7 @@
             "open_issues": 11,
             "owner": "aws-samples",
             "repo": "sample-agentic-form-filling",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "ai-agents",
               "amazon-bedrock",
@@ -2699,7 +2699,7 @@
             "open_issues": 1,
             "owner": "1844909740",
             "repo": "mutli-agents",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
@@ -3515,7 +3515,7 @@
             "open_issues": 10,
             "owner": "strands-agents",
             "repo": "agent-sop",
-            "stars": 1153,
+            "stars": 1154,
             "topics": [
               "strands-agents"
             ]
@@ -3687,8 +3687,8 @@
             "id": 1113381446,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T21:51:16Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-19T21:38:50Z",
+            "open_issues": 18,
             "owner": "awslabs",
             "repo": "agentcore-rl-toolkit",
             "stars": 60,
@@ -3719,7 +3719,7 @@
             "open_issues": 122,
             "owner": "aws",
             "repo": "bedrock-agentcore-sdk-python",
-            "stars": 764,
+            "stars": 765,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
@@ -3779,10 +3779,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T22:29:46Z",
-            "open_issues": 50,
+            "open_issues": 52,
             "owner": "NVIDIA",
             "repo": "NeMo-Agent-Toolkit",
-            "stars": 2637,
+            "stars": 2636,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:16.267Z"
@@ -4374,10 +4374,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T21:12:41Z",
-            "open_issues": 766,
+            "open_issues": 781,
             "owner": "strands-agents",
             "repo": "harness-sdk",
-            "stars": 7366,
+            "stars": 7372,
             "topics": [
               "agent-framework",
               "agentic",
@@ -4419,7 +4419,7 @@
             "open_issues": 140,
             "owner": "strands-agents",
             "repo": "tools",
-            "stars": 1270,
+            "stars": 1271,
             "topics": [
               "agentic",
               "agentic-ai",
@@ -4490,7 +4490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:42:57.042Z",
+    "last_updated": "2026-09-20T13:14:21.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources related Strands Agents.",
